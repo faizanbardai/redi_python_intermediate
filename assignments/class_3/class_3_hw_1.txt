@@ -1,0 +1,10 @@
+List is mutable; Tuple is immutable.
+
+Lists has variable length; tuple has fixed length.
+
+The literal syntax of tuples is shown by parentheses () whereas the literal syntax of lists is shown by square brackets [].
+
+Q. Describe a situation when using a list would be better than a tuple
+A. Any situation where you are required to add/remove item(s). 
+Q. Describe a situation when using a tuple would be better than a list
+A. Any situation where you don’t want to add/remove item(s).
