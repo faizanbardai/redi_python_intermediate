@@ -1,36 +1,36 @@
-def is_sorted(fruits):
-    for i in range(1, len(fruits)):
-        current = fruits[i]
-        previous = fruits[i - 1]
+def is_sorted(list):
+    for i in range(1, len(list)):
+        current = list[i]
+        previous = list[i - 1]
         if current < previous:
             return False
     return True
 
 
-def find_not_sorted(numbers):
-    for i in range(1, len(numbers)):
-        current = numbers[i]
-        previous = numbers[i-1]
+def find_not_sorted(list):
+    for i in range(1, len(list)):
+        current = list[i]
+        previous = list[i-1]
         if current < previous:
             return current
 
 
-def remove_not_sorted(numbers):
-    sorted = [numbers[0]]
-    for i in range(1, len(numbers)):
-        current = numbers[i]
-        previous = numbers[i-1]
+def remove_not_sorted(list):
+    sorted = [list[0]]
+    for i in range(1, len(list)):
+        current = list[i]
+        previous = list[i-1]
         if current > previous:
             sorted.append(current)
     return sorted
 
 
-def move_not_sorted(cars):
-    sorted_cars = [cars[0]]
+def move_not_sorted(list):
+    sorted_cars = [list[0]]
     unsorted_cars = []
-    for i in range(1, len(cars)):
-        current = cars[i]
-        previous = cars[i-1]
+    for i in range(1, len(list)):
+        current = list[i]
+        previous = list[i-1]
         if current > previous:
             sorted_cars.append(current)
         else:
