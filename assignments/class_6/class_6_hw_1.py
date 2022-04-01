@@ -1,5 +1,7 @@
 # In your code, create a Dictionary that contains 3 secret words as keys. Use anything as values.
-secret_words = {'foo': 123, 'hello': 456}
+secret_words = {'Avada Kedavra': 'The Killing Curse',
+                'Crucio': 'The Cruciatus Curse', 'Imperio': 'The Imperius Curse'}
+
 
 # Ask the user to input the any word.
 user_word = input('Enter a word: ')
@@ -11,6 +13,6 @@ user_word = input('Enter a word: ')
 
 
 try:
-    print(user_word, secret_words[user_word])
+    print(f'{user_word}: {secret_words[user_word]}')
 except KeyError:
     print('This word is not part of my secret dictionary :)')
