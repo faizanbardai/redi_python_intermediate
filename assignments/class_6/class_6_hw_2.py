@@ -8,7 +8,14 @@ logging.basicConfig(filename='math_game.log',
 user_name = input('What is your name? ')
 
 # Ask the user for the answer of a simple math operation. Example: What’s the result of “5x2”?
-user_answer = int(input('What is 5x2? '))
+is_user_answer_a_number = False
+while not is_user_answer_a_number:
+    try:
+        user_answer = int(input('What is 5x2? '))
+        is_user_answer_a_number = True
+    except ValueError:
+        print('Please enter a valid number.')
+
 
 if user_answer == 10:
     # If the user gives the correct answer:
