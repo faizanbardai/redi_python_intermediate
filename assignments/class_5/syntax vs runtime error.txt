@@ -1,0 +1,9 @@
+A syntax error in python occurs when it can't understand what you are saying.
+example: print 'Hello World'
+Python can’t understand this print statement since print method requires brackets 
+around the string to print i.e. print('Hello World')
+
+A run-time error in python occurs when it understands what you are saying but runs into error when executing the instruction. 
+example: print(1/0)
+The syntax here is correct and Python will execute the instruction. 
+However, when executing, it will run into error since dividing by zero makes no sense in mathematics. 
