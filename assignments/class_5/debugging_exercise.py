@@ -16,15 +16,22 @@
 
 patients = [(70, 1.8), (80, 1.9), (150, 1.7)]
 
-def calculate_bmi(weight, height):
+
+def calculate_bmi(patient):
     # See here https://en.wikipedia.org/wiki/Body_mass_index#History
     # for the formula to calculate the body mass index given the weight (in kilogram)
     # and height (in meters).
+    weight, height = patient
     bmi = weight / (height ** 2)
     return bmi
 
-for index in range(len(patients)-1):
-    weight, height = patients[0]
-    bmi = calculate_bmi(height, weight)
+# problem 1: not running through all the patients
+# problem 2: patient index is hard-coded
+# problem 3: wrong param order
+# problem 4: print bmi to 3 decimal places
+# suggestion: improve code
 
-    print("Patient's BMI is: %f" % bmi)
+
+for patient in patients:
+    bmi = calculate_bmi(patient)
+    print("Patient's BMI is: %0.3f" % bmi)
