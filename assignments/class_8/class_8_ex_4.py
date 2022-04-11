@@ -5,11 +5,8 @@
 import pathlib
 path = pathlib.Path(__file__).parent.resolve() / 'exercise2.txt'
 
-number_of_lines = 0
 
-with open(path, 'r') as file:
-    for line in file.readlines():
-        number_of_lines += 1
+with open(path, 'r+') as file:
+    number_of_lines = len(file.readlines())
 
-with open(path, 'a') as file:
     file.write('Number of lines : ' + str(number_of_lines))
