@@ -1,0 +1,843 @@
+#,NAME_ENGLISH,NAME_GERMAN,NAME_FRENCH,NAME_JAPAN,NAME_KOREAN,TYP1,TYP2,GENERATION,CANDY,BUDDY_DISTANCE,MAX_HP,MAX_ATT,MAX_DEF,MAX_CP,CATCH_RATE,ESCAPE_RATE,SHINY,ICON_PATH,SPRITE_PATH
+1,Bulbasaur,Bisasam,Bulbizarre,Fushigidane,Isanghaessi,Grass,Poison,1,25,3,128,118,111,1115,"20,00�%","10,00�%",Yes,./icon/001.png,./sprites/001.png
+2,Ivysaur,Bisaknosp,Herbizarre,Fushigisou,Isanghaepul,Grass,Poison,1,100,3,155,151,143,1699,"10,00�%","7,00�%",Yes,./icon/002.png,./sprites/002.png
+3,Venusaur,Bisaflor,Florizarre,Fushigibana,Isanghaekkot,Grass,Poison,1,,3,190,198,189,2720,"5,00�%","5,00�%",Yes,./icon/003.png,./sprites/003.png
+4,Charmander,Glumanda,Salam�che,Hitokage,Pairi,Fire,,1,25,3,118,116,93,980,"20,00�%","10,00�%",Yes,./icon/004.png,./sprites/004.png
+5,Charmeleon,Glutexo,Reptincel,Lizardo,Rijadeu,Fire,,1,100,3,151,158,126,1653,"10,00�%","7,00�%",Yes,./icon/005.png,./sprites/005.png
+6,Charizard,Glurak,Dracaufeu,Lizardon,Rijamong,Fire,Flying,1,,3,186,223,173,2889,"5,00�%","5,00�%",Yes,./icon/006.png,./sprites/006.png
+7,Squirtle,Schiggy,Carapuce,Zenigame,Kkobugi,Water,,1,25,3,127,94,121,946,"20,00�%","10,00�%",Yes,./icon/007.png,./sprites/007.png
+8,Wartortle,Schillok,Carabaffe,Kameil,Eonibugi,Water,,1,100,3,153,126,155,1488,"10,00�%","7,00�%",Yes,./icon/008.png,./sprites/008.png
+9,Blastoise,Turtok,Tortank,Kamex,Geobukwang,Water,,1,,3,188,171,207,2466,"5,00�%","5,00�%",Yes,./icon/009.png,./sprites/009.png
+10,Caterpie,Raupy,Chenipan,Caterpie,Kaeteopi,Bug,,1,12,1,128,55,55,437,"50,00�%","20,00�%",Yes,./icon/010.png,./sprites/010.png
+11,Metapod,Safcon,Chrysacier,Trancell,Dandegi,Bug,,1,50,1,137,45,80,450,"25,00�%","9,00�%",Yes,./icon/011.png,./sprites/011.png
+12,Butterfree,Smettbo,Papilusion,Butterfree,Beoteopeul,Bug,Flying,1,,1,155,167,137,1827,"12,50�%","6,00�%",Yes,./icon/012.png,./sprites/012.png
+13,Weedle,Hornliu,Aspicot,Beedle,Ppulchungi,Bug,Poison,1,12,1,120,63,50,456,"50,00�%","20,00�%",No,./icon/013.png,./sprites/013.png
+14,Kakuna,Kokuna,Coconfort,Cocoon,Ttakchungi,Bug,Poison,1,50,1,128,46,75,432,"25,00�%","9,00�%",No,./icon/014.png,./sprites/014.png
+15,Beedrill,Bibor,Dardargnan,Spear,Dokchimbung,Bug,Poison,1,,1,163,169,130,1846,"12,50�%","6,00�%",No,./icon/015.png,./sprites/015.png
+16,Pidgey,Taubsi,Roucool,Poppo,Gugu,Normal,Flying,1,12,1,120,85,73,680,"50,00�%","20,00�%",No,./icon/016.png,./sprites/016.png
+17,Pidgeotto,Tauboga,Roucoups,Pigeon,Pijyon,Normal,Flying,1,50,1,160,117,105,1194,"25,00�%","9,00�%",No,./icon/017.png,./sprites/017.png
+18,Pidgeot,Tauboss,Roucarnage,Pigeot,Pijyontu,Normal,Flying,1,,1,195,166,154,2129,"12,50�%","6,00�%",No,./icon/018.png,./sprites/018.png
+19,Rattata,Rattfratz,Rattata,Koratta,Koret,Normal,,1,25,1,102,103,70,734,"50,00�%","20,00�%",No,./icon/019.png,./sprites/019A.png
+19A,Rattata,Rattfratz,Rattata,Koratta,Koret,Dark,Normal,,25,1,102,103,70,734,"50,00�%","20,00�%",No,,./sprites/019A.png
+20,Raticate,Rattikarl,Rattatac,Ratta,Reteura,Normal,,1,,1,146,161,139,1730,"20,00�%","7,00�%",No,./icon/020.png,./sprites/020.png
+20A,Raticate,Rattikarl,Rattatac,Ratta,Reteura,Dark,Normal,,,1,181,135,154,1705,"20,00�%","7,00�%",No,,./sprites/020A.png
+21,Spearow,Habitak,Piafabec,Onisuzume,Kkaebicham,Normal,Flying,1,50,1,120,112,60,798,"50,00�%","15,00�%",No,./icon/021.png,./sprites/021.png
+22,Fearow,Ibitak,Rapasdepic,Onidrill,Kkaebideuriljo,Normal,Flying,1,,1,163,182,133,1997,"20,00�%","7,00�%",No,./icon/022.png,./sprites/022.png
+23,Ekans,Rettan,Abo,Arbo,Abo,Poison,,1,50,3,111,110,97,927,"50,00�%","15,00�%",No,./icon/023.png,./sprites/023.png
+24,Arbok,Arbok,Arbok,Arbok,Abokeu,Poison,,1,,3,155,167,153,1921,"20,00�%","7,00�%",No,./icon/024.png,./sprites/024.png
+25,Pikachu,Pikachu,Pikachu,Pikachu,Pikachyu,Electric,,1,50,1,111,112,96,938,"20,00�%","10,00�%",Yes,./icon/025.png,./sprites/025.png
+26,Raichu,Raichu,Raichu,Raichu,Raichyu,Electric,,1,,1,155,193,151,2182,"10,00�%","6,00�%",Yes,./icon/026.png,./sprites/026.png
+26A,Raichu,Raichu,Raichu,Raichu,Raichyu,Electric,Psychic,,,1,155,201,154,2286,"10,00�%","6,00�%",Yes,,./sprites/026A.png
+27,Sandshrew,Sandan,Sabelette,Sand,Moraeduji,Ground,,1,50,3,137,126,120,1261,"50,00�%","10,00�%",No,./icon/027.png,./sprites/027.png
+27A,Sandshrew,Sandan,Sabelette,Sand,Moraeduji,Ice,Steel,,50,3,137,125,129,1293,"50,00�%","10,00�%",No,,./sprites/027A.png
+28,Sandslash,Sandamer,Sablaireau,Sandpan,Goji,Ground,,1,,3,181,182,175,2374,"20,00�%","6,00�%",No,./icon/028.png,./sprites/028.png
+28A,Sandslash,Sandamer,Sablaireau,Sandpan,Goji,Ice,Steel,,,3,181,177,195,2432,"20,00�%","6,00�%",No,,./sprites/028A.png
+29,Nidoran f,Nidoran w,Nidoran f,Nidoran j,Nideureon y,Poison,,1,25,3,146,86,89,816,"50,00�%","15,00�%",Yes,./icon/029.png,./sprites/029.png
+30,Nidorina,Nidorina,Nidorina,Nidorina,Nideurina,Poison,,1,100,3,172,117,120,1309,"25,00�%","7,00�%",Yes,./icon/030.png,./sprites/030.png
+31,Nidoqueen,Nidoqueen,Nidoqueen,Nidequeen,Nideukwin,Poison,Ground,1,,3,207,180,173,2488,"12,50�%","5,00�%",Yes,./icon/031.png,./sprites/031.png
+32,Nidoran m,Nidoran m,Nidoran m,Nidoran d,Nideureon n,Poison,,1,25,3,130,105,76,860,"50,00�%","15,00�%",No,./icon/032.png,./sprites/032.png
+33,Nidorino,Nidorino,Nidorino,Nidorino,Nideurino,Poison,,1,100,3,156,137,111,1393,"25,00�%","7,00�%",No,./icon/033.png,./sprites/033.png
+34,Nidoking,Nidoking,Nidoking,Nidoking,Nideuking,Poison,Ground,1,,3,191,204,156,2567,"12,50�%","5,00�%",No,./icon/034.png,./sprites/034.png
+35,Clefairy,Piepi,M�lof�e,Pippi,Ppippi,Fairy,,1,50,1,172,107,108,1155,"30,00�%","10,00�%",No,./icon/035.png,./sprites/035.png
+36,Clefable,Pixi,M�lodelfe,Pixy,Piksi,Fairy,,1,,1,216,178,162,2437,"10,00�%","6,00�%",No,./icon/036.png,./sprites/036.png
+37,Vulpix,Vulpix,Goupix,Rokon,Sikseuteil,Fire,,1,50,3,116,96,109,883,"30,00�%","10,00�%",No,./icon/037.png,./sprites/037.png
+37A,Vulpix,Vulpix,Goupix,Rokon,Sikseuteil,Ice,,,50,3,116,96,109,883,"30,00�%","10,00�%",No,,./sprites/037A.png
+38,Ninetales,Vulnona,Feunard,Kyukon,Nainteil,Fire,,1,,3,177,169,190,2279,"10,00�%","6,00�%",No,./icon/038.png,./sprites/038.png
+38A,Ninetales,Vulnona,Feunard,Kyukon,Nainteil,Ice,Fairy,,,3,177,170,193,2309,"10,00�%","6,00�%",No,,./sprites/038A.png
+39,Jigglypuff,Pummeluff,Rondoudou,Purin,Purin,Normal,Fairy,1,50,1,251,80,41,724,"50,00�%","10,00�%",No,./icon/039.png,./sprites/039.png
+40,Wigglytuff,Knudeluff,Grodoudou,Pukurin,Pukeurin,Normal,Fairy,1,,1,295,156,90,1926,"20,00�%","6,00�%",No,./icon/040.png,./sprites/040.png
+41,Zubat,Zubat,Nosferapti,Zubat,Jubaet,Poison,Flying,1,25,1,120,83,73,667,"50,00�%","20,00�%",No,./icon/041.png,./sprites/041.png
+42,Golbat,Golbat,Nosferalto,Golbat,Golbaet,Poison,Flying,1,100,1,181,161,150,1976,"20,00�%","7,00�%",No,./icon/042.png,./sprites/042.png
+43,Oddish,Myrapla,Mystherbe,Nazonokusa,Ttubeokchyo,Grass,Poison,1,25,3,128,131,112,1228,"60,00�%","15,00�%",No,./icon/043.png,./sprites/043.png
+44,Gloom,Duflor,Ortide,Kusaihana,Naemsaekko,Grass,Poison,1,100,3,155,153,136,1681,"30,00�%","7,00�%",No,./icon/044.png,./sprites/044.png
+45,Vileplume,Giflor,Rafflesia,Ruffresia,Rapeullesia,Grass,Poison,1,,3,181,202,167,2559,"15,00�%","5,00�%",No,./icon/045.png,./sprites/045.png
+46,Paras,Paras,Paras,Paras,Paraseu,Bug,Grass,1,50,3,111,121,99,1018,"40,00�%","15,00�%",No,./icon/046.png,./sprites/046.png
+47,Parasect,Parasek,Parasect,Parasect,Parasekteu,Bug,Grass,1,,3,155,165,146,1859,"20,00�%","7,00�%",No,./icon/047.png,./sprites/047.png
+48,Venonat,Bluzuk,Mimitoss,Kongpang,Konpang,Bug,Poison,1,50,3,155,100,100,1004,"50,00�%","15,00�%",No,./icon/048.png,./sprites/048.png
+49,Venomoth,Omot,A�romite,Morphon,Donari,Bug,Poison,1,,3,172,179,143,2082,"20,00�%","7,00�%",No,./icon/049.png,./sprites/049.png
+50,Diglett,Digda,Taupiqueur,Digda,Digeuda,Ground,,1,50,3,67,109,78,676,"50,00�%","10,00�%",No,./icon/050.png,./sprites/050A.png
+50A,Diglett,Digda,Taupiqueur,Digda,Digeuda,Ground,Steel,,50,3,67,108,81,681,"50,00�%","10,00�%",No,,./sprites/050A.png
+51,Dugtrio,Digdri,Triopikeur,Dugtrio,Dakteurio,Ground,,1,,3,111,167,134,1557,"20,00�%","6,00�%",No,./icon/051.png,./sprites/051.png
+51A,Dugtrio,Digdri,Triopikeur,Dugtrio,Dakteurio,Ground,Steel,,,3,111,201,142,1897,"20,00�%","6,00�%",No,,./sprites/051A.png
+52,Meowth,Mauzi,Miaouss,Nyarth,Naong,Normal,,1,50,3,120,92,78,748,"50,00�%","15,00�%",No,./icon/052.png,./sprites/052.png
+52A,Meowth,Mauzi,Miaouss,Nyarth,Naong,Dark,,,50,3,120,99,78,797,"50,00�%","15,00�%",No,,./sprites/052A.png
+53,Persian,Snobilikat,Persian,Persian,Pereusion,Normal,,1,,3,163,150,136,1689,"20,00�%","7,00�%",No,./icon/053.png,./sprites/053.png
+53A,Persian,Snobilikat,Persian,Persian,Pereusion,Dark,,,,3,163,158,136,1771,"20,00�%","7,00�%",No,,./sprites/053A.png
+54,Psyduck,Enton,Psykokwak,Koduck,Gorapadeok,Water,,1,50,3,137,122,95,1106,"50,00�%","10,00�%",No,./icon/054.png,./sprites/054.png
+55,Golduck,Entoron,Akwakwak,Golduck,Goldeok,Water,,1,,3,190,191,162,2450,"20,00�%","6,00�%",No,./icon/055.png,./sprites/055.png
+56,Mankey,Menki,F�rosinge,Mankey,Mangki,Fighting,,1,50,3,120,148,82,1165,"50,00�%","10,00�%",No,./icon/056.png,./sprites/056.png
+57,Primeape,Rasaff,Colossinge,Okorizaru,Seongwonsung,Fighting,,1,,3,163,207,138,2288,"20,00�%","6,00�%",No,./icon/057.png,./sprites/057.png
+58,Growlithe,Fukano,Caninos,Gardie,Gadi,Fire,,1,50,3,146,136,93,1243,"30,00�%","10,00�%",Yes,./icon/058.png,./sprites/058.png
+59,Arcanine,Arkani,Arcanin,Windie,Windi,Fire,,1,,3,207,227,166,3029,"10,00�%","6,00�%",Yes,./icon/059.png,./sprites/059.png
+60,Poliwag,Quapsel,Ptitard,Nyoromo,Balchaengi,Water,,1,25,3,120,101,82,829,"50,00�%","15,00�%",No,./icon/060.png,./sprites/060.png
+61,Poliwhirl,Quaputzi,T�tarte,Nyorozo,Suryukchaengi,Water,,1,100,3,163,130,123,1419,"25,00�%","7,00�%",No,./icon/061.png,./sprites/061.png
+62,Poliwrath,Quappo,Tartard,Nyorobon,Gangchaengi,Water,Fighting,1,,3,207,182,184,2586,"12,50�%","5,00�%",No,./icon/062.png,./sprites/062.png
+63,Abra,Abra,Abra,Casey,Kaeisi,Psychic,,1,25,3,93,195,82,1342,"50,00�%","99,00�%",No,./icon/063.png,./sprites/063.png
+64,Kadabra,Kadabra,Kadabra,Yungerer,Yun-gella,Psychic,,1,100,3,120,232,117,2059,"25,00�%","7,00�%",No,./icon/064.png,./sprites/064.png
+65,Alakazam,Simsala,Alakazam,Foodin,Hudin,Psychic,,1,,3,146,271,167,3057,"10,00�%","5,00�%",No,./icon/065.png,./sprites/065.png
+66,Machop,Machollo,Machoc,Wanriky,Altongmon,Fighting,,1,25,3,172,137,82,1278,"50,00�%","10,00�%",No,./icon/066.png,./sprites/066.png
+67,Machoke,Maschock,Machopeur,Goriky,Geunyungmon,Fighting,,1,100,3,190,177,125,2031,"25,00�%","7,00�%",No,./icon/067.png,./sprites/067.png
+68,Machamp,Machomei,Mackogneur,Kairiky,Goeryeokmon,Fighting,,1,,3,207,234,159,3056,"10,00�%","5,00�%",No,./icon/068.png,./sprites/068.png
+69,Bellsprout,Knofensa,Ch�tiflor,Madatsubomi,Modapi,Grass,Poison,1,25,3,137,139,61,1033,"50,00�%","15,00�%",No,./icon/069.png,./sprites/069.png
+70,Weepinbell,Ultrigaria,Boustiflor,Utsudon,Ucheudong,Grass,Poison,1,100,3,163,172,92,1611,"25,00�%","7,00�%",No,./icon/070.png,./sprites/070.png
+71,Victreebel,Sarzenia,Empiflor,Utsubot,Ucheuboteu,Grass,Poison,1,,3,190,207,135,2431,"12,50�%","5,00�%",No,./icon/071.png,./sprites/071.png
+72,Tentacool,Tentacha,Tentacool,Menokurage,Wangnunhae,Water,Poison,1,50,3,120,97,149,1040,"50,00�%","15,00�%",No,./icon/072.png,./sprites/072.png
+73,Tentacruel,Tentoxa,Tentacruel,Dokukurage,Dokpari,Water,Poison,1,,3,190,166,209,2422,"20,00�%","7,00�%",No,./icon/073.png,./sprites/073.png
+74,Geodude,Kleinstein,Racaillou,Ishitsubute,Kkomadol,Rock,Ground,1,25,1,120,132,132,1293,"50,00�%","10,00�%",Yes,./icon/074.png,./sprites/074A.png
+74A,Geodude,Kleinstein,Racaillou,Ishitsubute,Kkomadol,Rock,Electric,,25,1,120,132,132,1293,"50,00�%","10,00�%",No,,./sprites/074A.png
+75,Graveler,Georok,Gravalanch,Golone,Deguri,Rock,Ground,1,100,1,146,164,164,1897,"25,00�%","7,00�%",Yes,./icon/075.png,./sprites/075.png
+75A,Graveler,Georok,Gravalanch,Golone,Deguri,Rock,Electric,,100,1,146,164,164,1897,"25,00�%","7,00�%",No,,./sprites/075A.png
+76,Golem,Geowaz,Grolem,Golonya,Ttakguri,Rock,Ground,1,,1,190,211,198,2949,"12,50�%","5,00�%",Yes,./icon/076.png,./sprites/076.png
+76A,Golem,Geowaz,Grolem,Golonya,Ttakguri,Rock,Electric,,,1,190,211,198,2949,"12,50�%","5,00�%",No,,./sprites/076A.png
+77,Ponyta,Ponita,Ponyta,Ponyta,Ponyta,Fire,,1,50,3,137,170,127,1697,"40,00�%","10,00�%",Yes,./icon/077.png,./sprites/077.png
+78,Rapidash,Gallopa,Galopa,Gallop,Nalssaengma,Fire,,1,,3,163,207,162,2461,"15,00�%","6,00�%",Yes,./icon/078.png,./sprites/078.png
+79,Slowpoke,Flegmon,Ramoloss,Yadon,Yadon,Water,Psychic,1,50,3,207,109,98,1226,"50,00�%","10,00�%",No,./icon/079.png,./sprites/079.png
+80,Slowbro,Lahmus,Flagadoss,Yadoran,Yadoran,Water,Psychic,1,,3,216,177,180,2545,"20,00�%","6,00�%",No,./icon/080.png,./sprites/080.png
+81,Magnemite,Magnetilo,Magn�ti,Coil,Koil,Electric,Steel,1,50,3,93,165,121,1362,"50,00�%","10,00�%",Yes,./icon/081.png,./sprites/081.png
+82,Magneton,Magneton,Magn�ton,Rarecoil,Reeokoil,Electric,Steel,1,,3,137,223,169,2485,"20,00�%","6,00�%",Yes,./icon/082.png,./sprites/082.png
+83,Farfetch�d,Porenta,Canarticho,Kamonegi,Paori,Normal,Flying,1,,3,141,124,115,1236,"30,00�%","9,00�%",No,./icon/083.png,./sprites/083.png
+84,Doduo,Dodu,Doduo,Dodo,Dudu,Normal,Flying,1,50,3,111,158,83,1200,"50,00�%","10,00�%",No,./icon/084.png,./sprites/084.png
+85,Dodrio,Dodri,Dodrio,Dodorio,Duteurio,Normal,Flying,1,,3,155,218,140,2362,"20,00�%","6,00�%",No,./icon/085.png,./sprites/085.png
+86,Seel,Jurob,Otaria,Pawou,Jyujyu,Water,,1,50,3,163,85,121,971,"50,00�%","9,00�%",No,./icon/086.png,./sprites/086.png
+87,Dewgong,Jugong,Lamantine,Jugon,Jyuregon,Water,Ice,1,,3,207,139,177,1985,"20,00�%","6,00�%",No,./icon/087.png,./sprites/087.png
+88,Grimer,Sleima,Tadmorv,Betbeter,Jilpeogi,Poison,,1,50,3,190,135,90,1374,"50,00�%","10,00�%",Yes,./icon/088.png,./sprites/088.png
+88A,Grimer,Sleima,Tadmorv,Betbeter,Jilpeogi,Poison,Dark,,50,3,190,135,90,1374,"50,00�%","10,00�%",No,,./sprites/088A.png
+89,Muk,Sleimok,Grotadmorv,Betbeton,Jilppeogi,Poison,,1,,3,233,190,172,2757,"20,00�%","6,00�%",Yes,./icon/089.png,./sprites/089.png
+89A,Muk,Sleimok,Grotadmorv,Betbeton,Jilppeogi,Poison,Dark,,,3,233,190,172,2757,"20,00�%","6,00�%",No,,./sprites/089A.png
+90,Shellder,Muschas,Kokiyas,Shellder,Selleo,Water,,1,50,3,102,116,134,1080,"50,00�%","10,00�%",Yes,./icon/090.png,./sprites/090.png
+91,Cloyster,Austos,Crustabri,Parshen,Pareusel,Water,Ice,1,,3,137,186,256,2547,"20,00�%","6,00�%",Yes,./icon/091.png,./sprites/091.png
+92,Gastly,Nebulak,Fantominus,Ghos,Gooseu,Ghost,Poison,1,25,3,102,186,67,1229,"40,00�%","10,00�%",No,./icon/092.png,./sprites/092.png
+93,Haunter,Alpollo,Spectrum,Ghost,Gouseuteu,Ghost,Poison,1,100,3,128,223,107,1963,"20,00�%","7,00�%",No,./icon/093.png,./sprites/093.png
+94,Gengar,Gengar,Ectoplasma,Gangar,Paenteom,Ghost,Poison,1,,3,155,261,149,2878,"10,00�%","5,00�%",No,./icon/094.png,./sprites/094.png
+95,Onix,Onix,Onix,Iwark,Rongseuton,Rock,Ground,1,50,5,111,85,232,1102,"20,00�%","9,00�%",No,./icon/095.png,./sprites/095.png
+96,Drowzee,Traumato,Soporifik,Sleepe,Seullipeu,Psychic,,1,50,3,155,89,136,1040,"50,00�%","10,00�%",Yes,./icon/096.png,./sprites/096.png
+97,Hypno,Hypno,Hypnomade,Sleeper,Seullipeo,Psychic,,1,,3,198,144,193,2090,"20,00�%","6,00�%",Yes,./icon/097.png,./sprites/097.png
+98,Krabby,Krabby,Krabby,Crab,Keuraep,Water,,1,50,3,102,181,124,1561,"50,00�%","15,00�%",Yes,./icon/098.png,./sprites/098.png
+99,Kingler,Kingler,Krabboss,Kingler,Kingkeuraep,Water,,1,,3,146,240,181,2829,"20,00�%","7,00�%",Yes,./icon/099.png,./sprites/099.png
+100,Voltorb,Voltobal,Voltorbe,Biriridama,Jjiririgong,Electric,,1,50,3,120,109,111,1010,"50,00�%","10,00�%",No,./icon/100.png,./sprites/100.png
+101,Electrode,Lektrobal,�lectrode,Marumine,Bumbol,Electric,,1,,3,155,173,173,2099,"20,00�%","6,00�%",No,./icon/101.png,./sprites/101.png
+102,Exeggcute,Owei,Noeunoeuf,Tamatama,Arari,Grass,Psychic,1,50,3,155,107,125,1175,"50,00�%","10,00�%",No,./icon/102.png,./sprites/102.png
+103,Exeggutor,Kokowei,Noadkoko,Nassy,Nasi,Grass,Psychic,1,,3,216,233,149,3014,"20,00�%","6,00�%",No,./icon/103.png,./sprites/103.png
+103A,Exeggutor,Kokowei,Noadkoko,Nassy,Nasi,Grass,Dragon,,,3,216,230,153,3014,"20,00�%","6,00�%",No,,./sprites/103A.png
+104,Cubone,Tragosso,Osselait,Karakara,Tangguri,Ground,,1,50,3,137,90,144,1019,"40,00�%","10,00�%",Yes,./icon/104.png,./sprites/104.png
+105,Marowak,Knogga,Ossatueur,Garagara,Teongguri,Ground,,1,,3,155,144,186,1835,"15,00�%","6,00�%",Yes,./icon/105.png,./sprites/105.png
+105A,Marowak,Knogga,Ossatueur,Garagara,Teongguri,Fire,Ghost,,,3,155,144,186,1835,"15,00�%","6,00�%",No,,./sprites/105A.png
+106,Hitmonlee,Kicklee,Kicklee,Sawamular,Sirasomon,Fighting,,1,,5,137,224,181,2576,"20,00�%","9,00�%",No,./icon/106.png,./sprites/106.png
+107,Hitmonchan,Nockchan,Tygnon,Ebiwalar,Hongsumon,Fighting,,1,,5,137,193,197,2332,"20,00�%","9,00�%",No,./icon/107.png,./sprites/107.png
+108,Lickitung,Schlurp,Excelangue,Beroringa,Naerumi,Normal,,1,,3,207,108,137,1411,"20,00�%","9,00�%",No,./icon/108.png,./sprites/108.png
+109,Koffing,Smogon,Smogo,Dogars,Ttogaseu,Poison,,1,50,3,120,119,141,1214,"50,00�%","10,00�%",No,./icon/109.png,./sprites/109.png
+110,Weezing,Smogmog,Smogogo,Matadogas,Ttodogaseu,Poison,,1,,3,163,174,197,2293,"20,00�%","6,00�%",No,./icon/110.png,./sprites/110.png
+111,Rhyhorn,Rihorn,Rhinocorne,Sihorn,Ppulkano,Ground,Rock,1,25,3,190,140,127,1651,"50,00�%","10,00�%",No,./icon/111.png,./sprites/111.png
+112,Rhydon,Rizeros,Rhinoferos,Sidon,Koppuri,Ground,Rock,1,100,3,233,222,171,3179,"5,00�%","6,00�%",No,./icon/112.png,./sprites/112.png
+113,Chansey,Chaneira,Leveinard,Lucky,Reokki,Normal,,1,50,5,487,60,128,1255,"20,00�%","9,00�%",No,./icon/113.png,./sprites/113.png
+114,Tangela,Tangela,Saquedeneu,Monjara,Deongguri,Grass,,1,,3,163,183,169,2238,"40,00�%","9,00�%",No,./icon/114.png,./sprites/114.png
+115,Kangaskhan,Kangama,Kangourex,Garura,Kaengka,Normal,,1,,3,233,181,165,2586,"20,00�%","9,00�%",No,./icon/115.png,./sprites/115.png
+116,Horsea,Seeper,Hypotrempe,Tattu,Ssodeura,Water,,1,25,3,102,129,103,1056,"50,00�%","10,00�%",No,./icon/116.png,./sprites/116.png
+117,Seadra,Seemon,Hypoc�an,Seadra,Sideura,Water,,1,100,3,146,187,156,2093,"20,00�%","6,00�%",No,./icon/117.png,./sprites/117.png
+118,Goldeen,Goldini,Poissir�ne,Tosakinto,Konchi,Water,,1,50,3,128,123,110,1152,"50,00�%","15,00�%",No,./icon/118.png,./sprites/118.png
+119,Seaking,Golking,Poissoroy,Azumao,Wangkonchi,Water,,1,,3,190,175,147,2162,"20,00�%","7,00�%",No,./icon/119.png,./sprites/119.png
+120,Staryu,Sterndu,Stari,Hitodeman,Byeolgasari,Water,,1,50,3,102,137,112,1157,"50,00�%","15,00�%",No,./icon/120.png,./sprites/120.png
+121,Starmie,Starmie,Staross,Starmie,Akuseuta,Water,Psychic,1,,3,155,210,184,2584,"20,00�%","6,00�%",No,./icon/121.png,./sprites/121.png
+122,Mr. Mime,Pantimos,M. Mime,Barrierd,Maimmaen,Psychic,Fairy,1,,5,120,192,205,2228,"30,00�%","9,00�%",No,./icon/122.png,./sprites/122.png
+123,Scyther,Sichlor,Ins�cateur,Strike,Seurakeu,Bug,Flying,1,50,5,172,218,170,2706,"30,00�%","9,00�%",No,./icon/123.png,./sprites/123.png
+124,Jynx,Rossana,Lippoutou,Rougela,Rujura,Ice,Psychic,1,,5,163,223,151,2555,"30,00�%","9,00�%",No,./icon/124.png,./sprites/124.png
+125,Electabuzz,Elektek,�lektek,Eleboo,Erebeu,Electric,,1,100,5,163,198,158,2334,"20,00�%","9,00�%",Yes,./icon/125.png,./sprites/125.png
+126,Magmar,Magmar,Magmar,Boober,Mageuma,Fire,,1,100,5,163,206,154,2394,"20,00�%","9,00�%",Yes,./icon/126.png,./sprites/126.png
+127,Pinsir,Pinsir,Scarabrute,Kailios,Ppeusaijeo,Bug,,1,,5,163,238,182,2959,"30,00�%","9,00�%",Yes,./icon/127.png,./sprites/127.png
+128,Tauros,Tauros,Tauros,Kentauros,Kentaroseu,Normal,,1,,3,181,198,183,2620,"30,00�%","9,00�%",No,./icon/128.png,./sprites/128.png
+129,Magikarp,Karpador,Magicarpe,Koiking,Ingeoking,Water,,1,400,1,85,29,85,274,"70,00�%","15,00�%",Yes,./icon/129.png,./sprites/129.png
+130,Gyarados,Garados,L�viator,Gyarados,Gyaradoseu,Water,Flying,1,,1,216,237,186,3391,"10,00�%","7,00�%",Yes,./icon/130.png,./sprites/130.png
+131,Lapras,Lapras,Lokhlass,Laplace,Rapeuraseu,Water,Ice,1,,5,277,165,174,2641,"5,00�%","9,00�%",No,./icon/131.png,./sprites/131.png
+132,Ditto,Ditto,M�tamorph,Metamon,Metamong,Normal,,1,,3,134,91,91,832,"20,00�%","10,00�%",No,./icon/132.png,./sprites/132.png
+133,Eevee,Evoli,�voli,Eievui,Ibeui,Normal,,1,25,5,146,104,114,1071,"40,00�%","10,00�%",Yes,./icon/133.png,./sprites/133.png
+134,Vaporeon,Aquana,Aquali,Showers,Syamideu,Water,,1,,5,277,205,161,3114,"12,50�%","6,00�%",Yes,./icon/134.png,./sprites/134.png
+135,Jolteon,Blitza,Voltali,Thunders,Jyupisseondeo,Electric,,1,,5,163,232,182,2888,"12,50�%","6,00�%",Yes,./icon/135.png,./sprites/135.png
+136,Flareon,Flamara,Pyroli,Booster,Buseuteo,Fire,,1,,5,163,246,179,3029,"12,50�%","6,00�%",Yes,./icon/136.png,./sprites/136.png
+137,Porygon,Porygon,Porygon,Porygon,Polligon,Normal,,1,25,3,163,153,136,1720,"40,00�%","9,00�%",No,./icon/137.png,./sprites/137.png
+138,Omanyte,Amonitas,Amonita,Omnite,Amnaiteu,Rock,Water,1,50,5,111,155,153,1544,"40,00�%","9,00�%",Yes,./icon/138.png,./sprites/138.png
+139,Omastar,Amoroso,Amonistar,Omstar,Amseuta,Rock,Water,1,,5,172,207,201,2786,"15,00�%","5,00�%",Yes,./icon/139.png,./sprites/139.png
+140,Kabuto,Kabuto,Kabuto,Kabuto,Tugu,Rock,Water,1,50,5,102,148,140,1370,"40,00�%","9,00�%",Yes,./icon/140.png,./sprites/140.png
+141,Kabutops,Kabutops,Kabutops,Kabutops,Tugupuseu,Rock,Water,1,,5,155,220,186,2713,"15,00�%","5,00�%",Yes,./icon/141.png,./sprites/141.png
+142,Aerodactyl,Aerodactyl,Pt�ra,Ptera,Peutera,Rock,Flying,1,,5,190,221,159,2783,"20,00�%","9,00�%",Yes,./icon/142.png,./sprites/142.png
+143,Snorlax,Relaxo,Ronflex,Kabigon,Jammanbo,Normal,,1,,5,330,190,169,3225,"5,00�%","9,00�%",No,./icon/143.png,./sprites/143.png
+144,Articuno,Arktos,Artikodin,Freezer,Peurijyeo,Ice,Flying,1,,20,207,192,236,3051,"3,00�%","10,00�%",Yes,./icon/144.png,./sprites/144.png
+145,Zapdos,Zapdos,�lecthor,Thunder,Sseondeo,Electric,Flying,1,,20,207,253,185,3527,"3,00�%","10,00�%",Yes,./icon/145.png,./sprites/145.png
+146,Moltres,Lavados,Sulfura,Fire,Paieo,Fire,Flying,1,,20,207,251,181,3465,"3,00�%","10,00�%",Yes,./icon/146.png,./sprites/146.png
+147,Dratini,Dratini,Minidraco,Miniryu,Minyong,Dragon,,1,25,5,121,119,91,1004,"40,00�%","9,00�%",Yes,./icon/147.png,./sprites/147.png
+148,Dragonair,Dragonir,Draco,Hakuryu,Sonnyong,Dragon,,1,100,5,156,163,135,1780,"10,00�%","6,00�%",Yes,./icon/148.png,./sprites/148.png
+149,Dragonite,Dragoran,Dracolosse,Kairyu,Mangnanyong,Dragon,Flying,1,,5,209,263,198,3792,"5,00�%","5,00�%",Yes,./icon/149.png,./sprites/149.png
+150,Mewtwo,Mewtu,Mewtwo,Mewtwo,Myucheu,Psychic,,1,,20,214,300,182,4178,"6,00�%","10,00�%",No,./icon/150.png,./sprites/150.png
+151,Mew,Mew,Mew,Mew,Myu,Psychic,,1,,20,225,210,210,3265,"100,00�%",,No,./icon/151.png,./sprites/151.png
+152,Chikorita,Endivie,Germignon,Chicorita,Chikorita ,Grass,,2,25,3,128,92,122,935,"20,00�%","10,00�%",Yes,./icon/152.png,./sprites/152.png
+153,Bayleef,Lorblatt,Macronium,Bayleaf,Beiripeu ,Grass,,2,100,3,155,122,155,1454,"12,50�%","7,00�%",Yes,./icon/153.png,./sprites/153.png
+154,Meganium,Meganie,M�ganium,Meganium,Meganium ,Grass,,2,,3,190,168,202,2410,"5,00�%","5,00�%",Yes,./icon/154.png,./sprites/154.png
+155,Cyndaquil,Feurigel,H�ricendre,Hinoarashi,Beukein ,Fire,,2,25,3,118,116,93,980,"20,00�%","10,00�%",Yes,./icon/155.png,./sprites/155.png
+156,Quilava,Igelavar,Feurisson,Magmarashi,Mageukein ,Fire,,2,100,3,151,158,126,1653,"12,50�%","7,00�%",Yes,./icon/156.png,./sprites/156.png
+157,Typhlosion,Tornupto,Typhlosion,Bakphoon,Beulleibeom ,Fire,,2,,3,186,223,173,2889,"5,00�%","5,00�%",Yes,./icon/157.png,./sprites/157.png
+158,Totodile,Karnimani,Kaiminus,Waninoko,Riako ,Water,,2,25,3,137,117,109,1131,"20,00�%","10,00�%",No,./icon/158.png,./sprites/158.png
+159,Croconaw,Tyracroc,Crocrodil,Alligates,Elligei ,Water,,2,100,3,163,150,142,1722,"12,50�%","7,00�%",No,./icon/159.png,./sprites/159.png
+160,Feraligatr,Impergator,Aligatueur,Ordile,Jangkeurodail ,Water,,2,,3,198,205,188,2857,"5,00�%","5,00�%",No,./icon/160.png,./sprites/160.png
+161,Sentret,Wiesor,Fouinette,Otachi,Kkoriseon ,Normal,,2,25,1,111,79,73,618,"50,00�%","20,00�%",No,./icon/161.png,./sprites/161.png
+162,Furret,Wiesenior,Fouinar,Ootachi,Dakkori ,Normal,,2,,1,198,148,125,1758,"15,00�%","7,00�%",No,./icon/162.png,./sprites/162.png
+163,Hoothoot,Hoothoot,Hoothoot,Hoho,Buubu ,Normal,Flying,2,50,1,155,67,88,677,"50,00�%","15,00�%",No,./icon/163.png,./sprites/163.png
+164,Noctowl,Noctuh,Noarfang,Yorunozuku,Yabueong ,Normal,Flying,2,,1,225,145,156,2024,"15,00�%","7,00�%",No,./icon/164.png,./sprites/164.png
+165,Ledyba,Ledyba,Coxy,Rediba,Rediba ,Bug,Flying,2,25,1,120,72,118,728,"50,00�%","20,00�%",No,./icon/165.png,./sprites/165.png
+166,Ledian,Ledian,Coxyclaque,Redian,Redian ,Bug,Flying,2,,1,146,107,179,1346,"15,00�%","7,00�%",No,./icon/166.png,./sprites/166.png
+167,Spinarak,Webarak,Mimigal,Itomaru,Peigeom ,Bug,Poison,2,50,1,120,105,73,816,"50,00�%","20,00�%",No,./icon/167.png,./sprites/167.png
+168,Ariados,Ariados,Migalos,Ariados,Ariadoseu ,Bug,Poison,2,,1,172,161,124,1772,"15,00�%","7,00�%",No,./icon/168.png,./sprites/168.png
+169,Crobat,Iksbat,Nostenfer,Crobat,Keurobaet ,Poison,Flying,2,,1,198,194,178,2646,"10,00�%","5,00�%",No,./icon/169.png,./sprites/169.png
+170,Chinchou,Lampi,Loupio,Chonchie,Choragi ,Water,Electric,2,50,3,181,106,97,1119,"40,00�%","10,00�%",No,./icon/170.png,./sprites/170.png
+171,Lanturn,Lanturn,Lanturn,Lantern,Raenteon ,Water,Electric,2,,3,268,146,137,2085,"15,00�%","7,00�%",No,./icon/171.png,./sprites/171.png
+172,Pichu,Pichu,Pichu,Pichu,Pichyu ,Electric,,2,25,1,85,77,53,473,,"5,00�%",Yes,./icon/172.png,./sprites/172.png
+173,Cleffa,Pii,M�lo,Py,Ppi ,Fairy,,2,25,2,137,75,79,671,,"5,00�%",No,./icon/173.png,./sprites/173.png
+174,Igglybuff,Fluffeluff,Toudoudou,Pupurin,Pupurin ,Normal,Fairy,2,25,1,207,69,32,535,,"5,00�%",No,./icon/174.png,./sprites/174.png
+175,Togepi,Togepi,Togepi,Togepy,Togepi ,Fairy,,2,25,3,111,67,116,657,,"5,00�%",Yes,./icon/175.png,./sprites/175.png
+176,Togetic,Togetic,Togetic,Togechick,Togetik ,Fairy,Flying,2,100,3,146,139,181,1708,"5,00�%","5,00�%",Yes,./icon/176.png,./sprites/176.png
+177,Natu,Natu,Natu,Naty,Neiti ,Psychic,Flying,2,50,3,120,134,89,1102,"40,00�%","15,00�%",Yes,./icon/177.png,./sprites/177.png
+178,Xatu,Xatu,Xatu,Natio,Neitio ,Psychic,Flying,2,,3,163,192,146,2188,"15,00�%","7,00�%",Yes,./icon/178.png,./sprites/178.png
+179,Mareep,Voltilamm,Wattouat,Merriep,Meripeu ,Electric,,2,25,5,146,114,79,991,"50,00�%","10,00�%",Yes,./icon/179.png,./sprites/179.png
+180,Flaaffy,Waaty,Lainergie,Mokoko,Bosongsong ,Electric,,2,100,5,172,145,109,1521,"25,00�%","7,00�%",Yes,./icon/180.png,./sprites/180.png
+181,Ampharos,Ampharos,Pharamp,Denryu,Jeonryong ,Electric,,2,,5,207,211,169,2852,"12,50�%","5,00�%",Yes,./icon/181.png,./sprites/181.png
+182,Bellossom,Blubella,Joliflor,Kireihana,Areuko ,Grass,,2,,3,181,169,186,2281,"5,00�%","5,00�%",No,./icon/182.png,./sprites/182.png
+183,Marill,Marill,Marill,Maril,Maril ,Water,Fairy,2,25,3,172,37,93,461,"50,00�%","10,00�%",No,./icon/183.png,./sprites/183.png
+184,Azumarill,Azumarill,Azumarill,Marilli,Marilli ,Water,Fairy,2,,3,225,112,152,1588,"15,00�%","7,00�%",No,./icon/184.png,./sprites/184.png
+185,Sudowoodo,Mogelbaum,Simularbre,Usokkie,Kkojimo ,Rock,,2,,5,172,167,176,2148,"12,50�%","5,00�%",No,./icon/185.png,./sprites/185.png
+186,Politoed,Quaxo,Tarpaud,Nyorotono,Wangguri ,Water,,2,,3,207,174,179,2449,"10,00�%","5,00�%",No,./icon/186.png,./sprites/186.png
+187,Hoppip,Hoppspross,Granivol,Hanecco,Tongtongko ,Grass,Flying,2,25,3,111,67,94,600,"50,00�%","12,00�%",No,./icon/187.png,./sprites/187.png
+188,Skiploom,Hubelupf,Floravol,Popocco,Duko ,Grass,Flying,2,100,3,146,91,120,976,"25,00�%","7,00�%",No,./icon/188.png,./sprites/188.png
+189,Jumpluff,Papungha,Cotovol,Watacco,Somsomko ,Grass,Flying,2,,3,181,118,183,1636,"12,50�%","5,00�%",No,./icon/189.png,./sprites/189.png
+190,Aipom,Griffel,Capumain,Eipam,Eipam ,Normal,,2,,3,146,136,112,1348,"20,00�%","9,00�%",No,./icon/190.png,./sprites/190.png
+191,Sunkern,Sonnkern,Tournegrin,Himanuts,Haeneocheu ,Grass,,2,50,3,102,55,55,395,"50,00�%","9,00�%",Yes,./icon/191.png,./sprites/191.png
+192,Sunflora,Sonnflora,H�liatronc,Kimawari,Haerumi ,Grass,,2,,3,181,185,135,2141,"10,00�%","7,00�%",Yes,./icon/192.png,./sprites/192.png
+193,Yanma,Yanma,Yanma,Yanyanma,Wangjari ,Bug,Flying,2,,3,163,154,94,1470,"30,00�%","10,00�%",No,./icon/193.png,./sprites/193.png
+194,Wooper,Felino,Axoloto,Upah,Upa ,Water,Ground,2,50,3,146,75,66,641,"40,00�%","10,00�%",No,./icon/194.png,./sprites/194.png
+195,Quagsire,Morlord,Maraiste,Nuoh,Nuo ,Water,Ground,2,,3,216,152,143,1992,"15,00�%","7,00�%",No,./icon/195.png,./sprites/195.png
+196,Espeon,Psiana,Mentali,Eifie,Ebeui ,Psychic,,2,,5,163,261,175,3170,,"5,00�%",Yes,./icon/196.png,./sprites/196.png
+197,Umbreon,Nachtara,Noctali,Blacky,Beullaeki ,Dark,,2,,5,216,126,240,2137,,"5,00�%",Yes,./icon/197.png,./sprites/197.png
+198,Murkrow,Kramurx,Corn�bre,Yamikarasu,Nirou ,Dark,Flying,2,100,3,155,175,87,1562,"20,00�%","10,00�%",Yes,./icon/198.png,./sprites/198.png
+199,Slowking,Laschoking,Roigada,Yadoking,Yadoking ,Water,Psychic,2,,3,216,177,180,2545,"10,00�%","5,00�%",No,./icon/199.png,./sprites/199.png
+200,Misdreavus,Traunfugil,Feufor�ve,Muma,Muuma ,Ghost,,2,100,3,155,167,154,1926,"30,00�%","7,00�%",No,./icon/200.png,./sprites/200.png
+201,Unown,Icognito,Zarbi,Unknown,Annong ,Psychic,,2,,5,134,136,91,1185,"30,00�%","10,00�%",No,./icon/201.png,./sprites/201.png
+202,Wobbuffet,Woingenau,Qulbutok�,Sonans,Majayong ,Psychic,,2,,3,382,60,106,1026,"25,00�%","7,00�%",Yes,./icon/202.png,./sprites/202.png
+203,Girafarig,Girafarig,Girafarig,Kirinriki,Kiringki ,Normal,Psychic,2,,3,172,182,133,2046,"30,00�%","7,00�%",No,./icon/203.png,./sprites/203.png
+204,Pineco,Tannza,Pomdepik,Kunugidama,Pikon ,Bug,,2,50,5,137,108,122,1108,"40,00�%","12,00�%",Yes,./icon/204.png,./sprites/204.png
+205,Forretress,Forstellka,Foretress,Foretos,Ssokon ,Bug,Steel,2,,5,181,161,205,2282,"15,00�%","7,00�%",Yes,./icon/205.png,./sprites/205.png
+206,Dunsparce,Dummisel,Insolourdo,Nokocchi,Nogochi ,Normal,,2,,3,225,131,128,1689,"30,00�%","20,00�%",No,./icon/206.png,./sprites/206.png
+207,Gligar,Skorgla,Scorplane,Gliger,Geullaigeo ,Ground,Flying,2,100,5,163,143,184,1857,"20,00�%","7,00�%",No,./icon/207.png,./sprites/207.png
+208,Steelix,Stahlos,Steelix,Haganeil,Gangcheolton ,Steel,Ground,2,,5,181,148,272,2414,"10,00�%","5,00�%",No,./icon/208.png,./sprites/208.png
+209,Snubbull,Snubbull,Snubbull,Bulu,Beullu ,Fairy,,2,50,3,155,137,85,1237,"40,00�%","10,00�%",Yes,./icon/209.png,./sprites/209.png
+210,Granbull,Granbull,Granbull,Granbulu,Geurangbeullu ,Fairy,,2,,3,207,212,131,2552,"15,00�%","8,00�%",Yes,./icon/210.png,./sprites/210.png
+211,Qwilfish,Baldorfish,Qwilfish,Harysen,Chimbaru ,Water,Poison,2,,3,163,184,138,2051,"30,00�%","8,00�%",No,./icon/211.png,./sprites/211.png
+212,Scizor,Scherox,Cizayox,Hassam,Hassam ,Bug,Steel,2,,5,172,236,181,3001,"5,00�%","5,00�%",No,./icon/212.png,./sprites/212.png
+213,Shuckle,Pottrott,Caratroc,Tsubotsubo,Dandanji ,Bug,Rock,2,,3,85,17,396,405,"30,00�%","7,00�%",No,./icon/213.png,./sprites/213.png
+214,Heracross,Skaraborn,Scarhino,Heracros,Herakeuroseu ,Bug,Fighting,2,,3,190,234,179,3101,"30,00�%","9,00�%",No,./icon/214.png,./sprites/214.png
+215,Sneasel,Sniebel,Farfuret,Nyula,Popuni ,Dark,Ice,2,100,3,146,189,146,2051,"20,00�%","7,00�%",No,./icon/215.png,./sprites/215.png
+216,Teddiursa,Teddiursa,Teddiursa,Himeguma,Kkamjigom ,Normal,,2,50,3,155,142,93,1328,"50,00�%","20,00�%",No,./icon/216.png,./sprites/216.png
+217,Ursaring,Ursaring,Ursaring,Ringuma,Ringgom ,Normal,,2,,3,207,236,144,2945,"15,00�%","7,00�%",No,./icon/217.png,./sprites/217.png
+218,Slugma,Schneckmag,Limagma,Magmag,Mageumageu ,Fire,,2,50,1,120,118,71,895,"30,00�%","10,00�%",No,./icon/218.png,./sprites/218.png
+219,Magcargo,Magcargo,Volcaropod,Magcargot,Mageukareugo ,Fire,Rock,2,,1,137,139,191,1702,"12,50�%","6,00�%",No,./icon/219.png,./sprites/219.png
+220,Swinub,Quiekel,Marcacrin,Urimoo,Kkukkuri ,Ice,Ground,2,50,3,137,90,69,741,"30,00�%","10,00�%",No,./icon/220.png,./sprites/220.png
+221,Piloswine,Keifel,Cochignon,Inomoo,Mekkuri ,Ice,Ground,2,,3,225,181,138,2345,"12,50�%","6,00�%",No,./icon/221.png,./sprites/221.png
+222,Corsola,Corasonn,Corayon,Sunnygo,Kosanho ,Water,Rock,2,,3,146,118,156,1378,"30,00�%","12,00�%",No,./icon/222.png,./sprites/222.png
+223,Remoraid,Remoraid,R�moraid,Teppouo,Chongeo ,Water,,2,50,1,111,127,69,912,"50,00�%","10,00�%",No,./icon/223.png,./sprites/223.png
+224,Octillery,Octillery,Octillery,Okutank,Daepomuno ,Water,,2,,1,181,197,141,2315,"15,00�%","7,00�%",No,./icon/224.png,./sprites/224.png
+225,Delibird,Botogel,Cadoizo,Delibird,Dillibeodeu ,Ice,Flying,2,,5,128,128,90,1094,"20,00�%","20,00�%",No,./icon/225.png,./sprites/225.png
+226,Mantine,Mantax,D�manta,Mantain,Mantain ,Water,Flying,2,,5,163,148,226,2108,"30,00�%","7,00�%",No,./icon/226.png,./sprites/226.png
+227,Skarmory,Panzaeron,Airmure,Airmd,Mujangjo ,Steel,Flying,2,,5,163,148,226,2108,"20,00�%","9,00�%",No,./icon/227.png,./sprites/227.png
+228,Houndour,Hunduster,Malosse,Delvil,Delbil ,Dark,Fire,2,50,3,128,152,83,1234,"40,00�%","10,00�%",Yes,./icon/228.png,./sprites/228.png
+229,Houndoom,Hundemon,D�molosse,Hellgar,Helga ,Dark,Fire,2,,3,181,224,144,2635,"15,00�%","6,00�%",Yes,./icon/229.png,./sprites/229.png
+230,Kingdra,Seedraking,Hyporoi,Kingdra,Kingdeura ,Water,Dragon,2,,3,181,194,194,2641,"10,00�%","5,00�%",No,./icon/230.png,./sprites/230.png
+231,Phanpy,Phanpy,Phanpy,Gomazou,Kokori ,Ground,,2,50,3,207,107,98,1206,"50,00�%","20,00�%",No,./icon/231.png,./sprites/231.png
+232,Donphan,Donphan,Donphan,Donfan,Korigap ,Ground,,2,,3,207,214,185,3013,"12,50�%","7,00�%",No,./icon/232.png,./sprites/232.png
+233,Porygon2,Porygon2,Porygon2,Porygon2,2Polligon2 ,Normal,,2,100,3,198,198,180,2711,"5,00�%","5,00�%",No,./icon/233.png,./sprites/233.png
+234,Stantler,Damhirplex,Cerfrousse,Odoshishi,Noraki ,Normal,,2,,3,177,192,131,2164,"30,00�%","8,00�%",No,./icon/234.png,./sprites/234.png
+235,Smeargle,Farbeagle,Queulorior,Doble,Rubeudo ,Normal,,2,,3,146,40,83,431,"25,00�%","7,00�%",No,./icon/235.png,./sprites/235.png
+236,Tyrogue,Rabauz,Debugant,Balkie,Baeruki ,Fighting,,2,25,5,111,64,64,492,,"20,00�%",No,./icon/236.png,./sprites/236.png
+237,Hitmontop,Kapoera,Kapoera,Kapoerer,Kapoera ,Fighting,,2,,5,137,173,207,2156,"10,00�%","5,00�%",No,./icon/237.png,./sprites/237.png
+238,Smoochum,Kussilla,Lippouti,Muchul,Ppoppora ,Ice,Psychic,2,25,5,128,153,91,1291,,"20,00�%",No,./icon/238.png,./sprites/238.png
+239,Elekid,Elekid,�lekid,Elekid,Erekideu ,Electric,,2,25,5,128,135,101,1206,,"20,00�%",Yes,./icon/239.png,./sprites/239.png
+240,Magby,Magby,Magby,Buby,Mageubi ,Fire,,2,25,5,128,151,99,1323,,"20,00�%",Yes,./icon/240.png,./sprites/240.png
+241,Miltank,Miltank,�cr�meuh,Miltank,Miltaengkeu ,Normal,,2,,5,216,157,193,2354,"20,00�%","8,00�%",No,./icon/241.png,./sprites/241.png
+242,Blissey,Heiteira,Leuphorie,Happinas,Haepinaseu ,Normal,,2,,5,496,129,169,2757,"5,00�%","5,00�%",No,./icon/242.png,./sprites/242.png
+243,Raikou,Raikou,Raikou,Raikou,Raiko ,Electric,,2,,20,207,241,195,3452,"2,00�%","4,00�%",No,./icon/243.png,./sprites/243.png
+244,Entei,Entei,Entei,Entei,Aentei ,Fire,,2,,20,251,235,171,3473,"2,00�%","4,00�%",No,./icon/244.png,./sprites/244.png
+245,Suicune,Suicune,Suicune,Suicune,Seuikun ,Water,,2,,20,225,180,235,2983,"2,00�%","4,00�%",No,./icon/245.png,./sprites/245.png
+246,Larvitar,Larvitar,Embrylex,Yogiras,Aebeoraseu ,Rock,Ground,2,25,5,137,115,93,1040,"40,00�%","10,00�%",Yes,./icon/246.png,./sprites/246.png
+247,Pupitar,Pupitar,Ymphect,Sanagiras,Degiraseu ,Rock,Ground,2,100,5,172,155,133,1766,"10,00�%","7,00�%",Yes,./icon/247.png,./sprites/247.png
+248,Tyranitar,Despotar,Tyranocif,Bangiras,Magiraseu ,Rock,Dark,2,,5,225,251,207,3834,"5,00�%","4,00�%",Yes,./icon/248.png,./sprites/248.png
+249,Lugia,Lugia,Lugia,Lugia,Rugia ,Psychic,Flying,2,,20,235,193,310,3703,"2,00�%","4,00�%",Yes,./icon/249.png,./sprites/249.png
+250,Ho-Oh,Ho-Oh,Ho-Oh,Houou,Chilsaekjo ,Fire,Flying,2,,20,214,239,244,3863,"2,00�%","4,00�%",Yes,./icon/250.png,./sprites/250.png
+251,Celebi,Celebi,Celebi,Celebi,Serebi ,Psychic,Grass,2,,20,225,210,210,3265,"100,00�%",,No,./icon/251.png,./sprites/251.png
+252,Treecko,Geckarbor,Arcko,Kimori,Namujigi ,Grass,,3,25,3,80,124,104,923,"20,00�%","10,00�%",No,./icon/252.png,./sprites/252.png
+253,Grovyle,Reptain,Massko,Juptile,Namudori ,Grass,,3,100,3,100,172,130,1508,"10,00�%","7,00�%",No,./icon/253.png,./sprites/253.png
+254,Sceptile,Gewaldro,Jungko,Jukain,Namuking ,Grass,,3,,3,140,223,180,2584,"5,00�%","5,00�%",No,./icon/254.png,./sprites/254.png
+255,Torchic,Flemmli,Poussifeu,Achamo,Achamo ,Fire,,3,25,3,90,130,92,959,"20,00�%","10,00�%",No,./icon/255.png,./sprites/255.png
+256,Combusken,Jungglut,Galifeu,Wakasyamo,Yeongchiko ,Fire,Fighting,3,100,3,120,163,115,1472,"10,00�%","7,00�%",No,./icon/256.png,./sprites/256.png
+257,Blaziken,Lohgock,Bras�gali,Bursyamo,Beonchiko ,Fire,Fighting,3,,3,160,240,141,2631,"5,00�%","5,00�%",No,./icon/257.png,./sprites/257.png
+258,Mudkip,Hydropi,Gobou,Mizugorou,Muljjang-i ,Water,,3,25,3,100,126,93,981,"20,00�%","10,00�%",No,./icon/258.png,./sprites/258.png
+259,Marshtomp,Moorabbel,Flobio,Numacraw,Neupjjang-i ,Water,Ground,3,100,3,140,156,133,1617,"10,00�%","7,00�%",No,./icon/259.png,./sprites/259.png
+260,Swampert,Sumpex,Laggron,Laglarge,Daejjang-i ,Water,Ground,3,,3,200,208,175,2815,"5,00�%","5,00�%",No,./icon/260.png,./sprites/260.png
+261,Poochyena,Fiffyen,Medhy�na,Pochiena,Pochyana ,Dark,,3,50,1,70,96,63,564,"50,00�%","20,00�%",Yes,./icon/261.png,./sprites/261.png
+262,Mightyena,Magnayen,Grahy�na,Guraena,Geura-ena ,Dark,,3,,1,140,171,137,1783,"20,00�%","7,00�%",Yes,./icon/262.png,./sprites/262.png
+263,Zigzagoon,Zigzachs,Zigzaton,Jiguzaguma,Jigeujeguri ,Normal,,3,50,1,76,58,80,423,"50,00�%","20,00�%",No,./icon/263.png,./sprites/263.png
+264,Linoone,Geradaks,Lin�on,Massuguma,Jikguri ,Normal,,3,,1,156,142,128,1533,"20,00�%","7,00�%",No,./icon/264.png,./sprites/264.png
+265,Wurmple,Waumpel,Chenipotte,Kemusso,Gaemuso ,Bug,,3,12,1,90,75,61,502,"50,00�%","20,00�%",No,./icon/265.png,./sprites/265.png
+266,Silcoon,Schaloko,Armulys,Karasalis,Silkun ,Bug,,3,50,1,100,60,91,517,"25,00�%","9,00�%",No,./icon/266.png,./sprites/266.png
+267,Beautifly,Papinella,Charmillon,Agehunt,Byutipeullai ,Bug,Flying,3,,1,120,189,98,1573,"12,50�%","6,00�%",No,./icon/267.png,./sprites/267.png
+268,Cascoon,Panekon,Blindalys,Mayuld,Kaseukun ,Bug,,3,50,1,100,60,91,517,"25,00�%","9,00�%",No,./icon/268.png,./sprites/268.png
+269,Dustox,Pudox,Papinox,Dokucale,Dokkeil ,Bug,Poison,3,,1,120,98,172,1121,"12,50�%","6,00�%",No,./icon/269.png,./sprites/269.png
+270,Lotad,Loturzel,N�nupiot,Hassboh,Yeonkkotmon ,Water,Grass,3,25,3,80,71,86,526,"50,00�%","20,00�%",No,./icon/270.png,./sprites/270.png
+271,Lombre,Lombrero,Lombre,Hasubrero,Rotoseu ,Water,Grass,3,100,3,120,112,128,1102,"25,00�%","9,00�%",No,./icon/271.png,./sprites/271.png
+272,Ludicolo,Kappalores,Ludicolo,Runpappa,Ropapa ,Water,Grass,3,,3,160,173,191,2229,"12,50�%","6,00�%",No,./icon/272.png,./sprites/272.png
+273,Seedot,Samurzel,Grainipiot,Taneboh,Dotoring ,Grass,,3,25,3,80,71,86,526,"50,00�%","20,00�%",No,./icon/273.png,./sprites/273.png
+274,Nuzleaf,Blanas,Pifeuil,Konohana,Ipsaeko ,Grass,Dark,3,100,3,140,134,78,1117,"25,00�%","9,00�%",No,./icon/274.png,./sprites/274.png
+275,Shiftry,Tengulist,Tengalice,Dirteng,Dataenggu ,Grass,Dark,3,,3,180,200,121,2186,"12,50�%","6,00�%",No,./icon/275.png,./sprites/275.png
+276,Tailow,Schwalbini,Nirondelle,Subame,Teillo ,Normal,Flying,3,50,1,80,106,61,642,"50,00�%","20,00�%",No,./icon/276.png,./sprites/276.png
+277,Swellow,Schwalboss,H�l�delle,Ohsubame,Seuwallo ,Normal,Flying,3,,1,120,185,130,1747,"20,00�%","7,00�%",No,./icon/277.png,./sprites/277.png
+278,Wingull,Wingull,Go�lise,Camome,Galmomae ,Water,Flying,3,50,3,80,106,61,642,"50,00�%","20,00�%",Yes,./icon/278.png,./sprites/278.png
+279,Pelipper,Pelipper,Bekipan,Pelipper,Paeripeo ,Water,Flying,3,,3,120,175,189,1969,"20,00�%","7,00�%",Yes,./icon/279.png,./sprites/279.png
+280,Ralts,Trasla,Tarsal,Ralts,Raltoseu ,Psychic,Fairy,3,25,5,56,79,63,436,"40,00�%","9,00�%",No,./icon/280.png,./sprites/280.png
+281,Kirlia,Kirlia,Kirlia,Kirlia,Killia ,Psychic,Fairy,3,100,5,76,117,100,843,"10,00�%","6,00�%",No,./icon/281.png,./sprites/281.png
+282,Gardevoir,Guardevoir,Gardevoir,Sirnight,Gadian ,Psychic,Fairy,3,,5,136,237,220,2964,"5,00�%","5,00�%",No,./icon/282.png,./sprites/282.png
+283,Surskit,Gehweiher,Arakdo,Ametama,Bigusul ,Bug,Water,3,50,1,80,93,97,695,"50,00�%","20,00�%",No,./icon/283.png,./sprites/283.png
+284,Masquerain,Maskeregen,Maskadra,Amemoth,Binabang ,Bug,Flying,3,,1,140,192,161,2135,"20,00�%","7,00�%",No,./icon/284.png,./sprites/284.png
+285,Shroomish,Knilz,Balignon,Kinococo,Beoseotkko ,Bug,,3,50,3,120,74,110,722,"50,00�%","20,00�%",No,./icon/285.png,./sprites/285.png
+286,Breloom,Kapilz,Chapignon,Kinogassa,Beoseotmo ,Bug,Fighting,3,,3,120,241,153,2407,"20,00�%","7,00�%",No,./icon/286.png,./sprites/286.png
+287,Slakoth,Bummelz,Parecool,Namakero,Geeullo ,Normal,,3,25,5,120,104,104,942,"40,00�%","9,00�%",No,./icon/287.png,./sprites/287.png
+288,Vigoroth,Muntier,Vigoroth,Yarukimono,Balbaro ,Normal,,3,100,5,160,159,159,1896,"10,00�%","6,00�%",No,./icon/288.png,./sprites/288.png
+289,Slaking,Letarking,Monafl�mit,Kekking,Geeulking ,Normal,,3,,5,273,290,183,4548,"5,00�%","5,00�%",No,./icon/289.png,./sprites/289.png
+290,Nincada,Nincada,Ningale,Tutinin,Tojungmon ,Bug,Ground,3,50,5,62,80,153,674,"20,00�%","10,00�%",No,./icon/290.png,./sprites/290.png
+291,Ninjask,Ninjask,Ninjask,Tekkanin,Aiseukeu ,Bug,Flying,3,,5,122,196,114,1751,"10,00�%","7,00�%",No,./icon/291.png,./sprites/291.png
+292,Shedinja,Ninjatom,Munja,Nukenin,Kkeopjilmon ,Bug,Ghost,3,,5,2,153,80,421,"5,00�%","5,00�%",No,./icon/292.png,./sprites/292.png
+293,Whismur,Flurmel,Chuchmur,Gonyonyo,Sogonryong ,Normal,,3,12,1,128,92,42,603,"50,00�%","20,00�%",No,./icon/293.png,./sprites/293.png
+294,Loudred,Krakeelo,Ramboum,Dogohmb,Nogongryong ,Normal,,3,50,1,168,134,81,1233,"25,00�%","9,00�%",No,./icon/294.png,./sprites/294.png
+295,Exploud,Krawumms,Brouhabam,Bakuong,Pogeumryong ,Normal,,3,,1,208,179,142,2267,"12,50�%","6,00�%",No,./icon/295.png,./sprites/295.png
+296,Makuhita,Makuhita,Makuhita,Makunoshita,Makeutang ,Fighting,,3,50,3,144,99,54,745,"50,00�%","10,00�%",Yes,./icon/296.png,./sprites/296.png
+297,Hariyama,Hariyama,Hariyama,Hariteyama,Harimung ,Fighting,,3,,3,288,209,114,2765,"20,00�%","6,00�%",Yes,./icon/297.png,./sprites/297.png
+298,Azurill,Azurill,Azurill,Ruriri,Ruriri ,Normal,Fairy,3,25,3,100,36,71,316,"10,00�%","4,00�%",No,./icon/298.png,./sprites/298.png
+299,Nosepass,Nasgnet,Tarinor,Nosepass,Kokopaseu ,Rock,,3,,3,60,82,236,831,"20,00�%","9,00�%",No,./icon/299.png,./sprites/299.png
+300,Skitty,Eneco,Skitty,Eneco,Enabi ,Normal,,3,50,3,100,84,84,659,"50,00�%","10,00�%",No,./icon/300.png,./sprites/300.png
+301,Delcatty,Enekoro,Delcatty,Enekororo,Delketi ,Normal,,3,,3,140,132,132,1385,"20,00�%","6,00�%",No,./icon/301.png,./sprites/301.png
+302,Sableye,Zobiris,T�n�fix,Yamirami,Kkamkkami ,Dark,Ghost,3,,5,100,141,141,1305,"20,00�%","7,00�%",Yes,./icon/302.png,./sprites/302.png
+303,Mawile,Flunkifer,Mysdibule,Kucheat,Ipchiteu ,Steel,Fairy,3,,5,100,155,155,1484,"50,00�%","9,00�%",Yes,./icon/303.png,./sprites/303.png
+304,Aron,Stollunior,Galekid,Cokodora,Gabori ,Steel,Rock,3,25,1,100,121,168,1232,"50,00�%","20,00�%",Yes,./icon/304.png,./sprites/304.png
+305,Lairon,Stollrak,Galegon,Kodora,Gaengdora ,Steel,Rock,3,100,1,120,158,240,2004,"25,00�%","9,00�%",Yes,./icon/305.png,./sprites/305.png
+306,Aggron,Stolloss,Galeking,Bossgodora,Boseurora ,Steel,Rock,3,,1,140,198,314,3004,"12,50�%","6,00�%",Yes,./icon/306.png,./sprites/306.png
+307,Meditite,Meditie,M�ditikka,Asanan,Yogarang ,Fighting,Psychic,3,50,3,60,78,107,555,"50,00�%","10,00�%",Yes,./icon/307.png,./sprites/307.png
+308,Medicham,Meditalis,Charmina,Charem,Yogaraem ,Fighting,Psychic,3,,3,120,121,152,1275,"20,00�%","6,00�%",Yes,./icon/308.png,./sprites/308.png
+309,Electrike,Frizelbliz,Dynavolt,Rakurai,Sseondeorai ,Electric,,3,50,3,80,123,78,810,"50,00�%","10,00�%",No,./icon/309.png,./sprites/309.png
+310,Manectric,Voltenso,�lecsprint,Livolt,Sseondeobolteu ,Electric,,3,,3,140,215,127,2131,"20,00�%","6,00�%",No,./icon/310.png,./sprites/310.png
+311,Plusle,Plusle,Posipi,Prasle,Peulleosi ,Electric,,3,,3,120,167,147,1681,"30,00�%","9,00�%",Yes,./icon/311.png,./sprites/311.png
+312,Minun,Minun,N�gapi,Minun,Mainong ,Electric,,3,,3,120,147,167,1585,"30,00�%","9,00�%",Yes,./icon/312.png,./sprites/312.png
+313,Volbeat,Volbeat,Muciole,Barubeat,Bolbiteu ,Bug,,3,,3,130,143,171,1620,"30,00�%","9,00�%",No,./icon/313.png,./sprites/313.png
+314,Illumise,Illumise,Lumivole,Illumise,Ne-obiteu ,Bug,,3,,3,130,143,171,1620,"30,00�%","9,00�%",No,./icon/314.png,./sprites/314.png
+315,Roselia,Roselia,Ros�lia,Roselia,Rojellia ,Grass,Poison,3,100,3,100,186,148,1718,"30,00�%","9,00�%",Yes,./icon/315.png,./sprites/315.png
+316,Gulpin,Schluppuck,Gloupti,Gokulin,Kkolkkakmon ,Poison,,3,50,1,140,80,99,788,"50,00�%","10,00�%",No,./icon/316.png,./sprites/316.png
+317,Swalot,Schlukwech,Avaltout,Marunoom,Kkulkkeokmon ,Poison,,3,,1,200,140,159,1872,"20,00�%","6,00�%",No,./icon/317.png,./sprites/317.png
+318,Carvanha,Kanivanha,Carvanha,Kibanha,Syapeunia ,Water,Dark,3,50,3,90,171,39,874,"50,00�%","10,00�%",No,./icon/318.png,./sprites/318.png
+319,Sharpedo,Tohaido,Sharpedo,Samehader,Syakeunia ,Water,Dark,3,,3,140,243,83,1986,"20,00�%","6,00�%",No,./icon/319.png,./sprites/319.png
+320,Wailmer,Wailmer,Wailmer,Hoeruko,Goraewangja ,Water,,3,400,1,260,136,68,1424,"50,00�%","10,00�%",Yes,./icon/320.png,./sprites/320.png
+321,Wailord,Wailord,Wailord,Whaloh,Goraewang ,Water,,3,,1,340,175,87,2258,"20,00�%","6,00�%",Yes,./icon/321.png,./sprites/321.png
+322,Numel,Camaub,Chamallot,Donmel,Dunta ,Fire,Ground,3,50,3,120,119,82,957,"50,00�%","10,00�%",No,./icon/322.png,./sprites/322.png
+323,Camerupt,Camerupt,Cam�rupt,Bakuuda,Pokta ,Fire,Ground,3,,3,140,194,139,2016,"20,00�%","6,00�%",No,./icon/323.png,./sprites/323.png
+324,Torkoal,Qurtel,Chartor,Cotoise,Koteoseu ,Fire,,3,,3,140,151,234,2036,"30,00�%","9,00�%",No,./icon/324.png,./sprites/324.png
+325,Spoink,Spoink,Spoink,Baneboo,Pigeujeompeu ,Psychic,,3,50,1,120,125,145,1285,"50,00�%","10,00�%",No,./icon/325.png,./sprites/325.png
+326,Grumpig,Groink,Groret,Boopig,Pigeuking ,Psychic,,3,,1,160,171,211,2310,"20,00�%","6,00�%",No,./icon/326.png,./sprites/326.png
+327,Spinda,Pandir,Spinda,Patcheel ,Eollugi ,Normal,,3,,3,120,116,116,1088,"30,00�%","9,00�%",No,./icon/327.png,./sprites/327.png
+328,Trapinch,Knacklion,Kraknoix,Nuckrar ,Topchi ,Ground,,3,25,5,90,162,78,1092,"40,00�%","9,00�%",No,./icon/328.png,./sprites/328.png
+329,Vibrava,Vibrava,Vibraninf,Vibrava ,Bibeuraba ,Ground,Dragon,3,100,5,100,134,99,1065,"10,00�%","6,00�%",No,./icon/329.png,./sprites/329.png
+330,Flygon,Libelldra,Lib�gon,Flygon ,Peullaigon ,Ground,Dragon,3,,5,160,205,168,2458,"5,00�%","5,00�%",No,./icon/330.png,./sprites/330.png
+331,Cacnea,Tuska,Cacnea,Sabonea ,Seoninwang ,Grass,,3,50,3,100,156,74,1080,"50,00�%","10,00�%",No,./icon/331.png,./sprites/331.png
+332,Cacturne,Noktuska,Cacturne,Noctus ,Bamseonin ,Grass,Dark,3,,3,140,221,115,2092,"20,00�%","6,00�%",No,./icon/332.png,./sprites/332.png
+333,Swablu,Wablu,Tylton,Tyltto ,Pabiko ,Normal,Flying,3,400,1,90,76,139,722,"50,00�%","10,00�%",Yes,./icon/333.png,./sprites/333.png
+334,Altaria,Altaria,Altaria,Tyltalis ,Pabikori ,Dragon,Flying,3,,1,150,141,208,1868,"20,00�%","6,00�%",Yes,./icon/334.png,./sprites/334.png
+335,Zangoose,Sengo,Mangriff,Zangoose ,Jyanggo ,Normal,,3,,3,146,222,124,2214,"30,00�%","9,00�%",No,./icon/335.png,./sprites/335.png
+336,Seviper,Vipitis,S�viper,Habunake ,Sebipeo ,Poison,,3,,3,146,196,118,1928,"30,00�%","9,00�%",No,./icon/336.png,./sprites/336.png
+337,Lunatone,Lunastein,S�l�roc,Lunatone ,Runaton ,Rock,Psychic,3,,3,180,178,163,2245,"30,00�%","9,00�%",No,./icon/337.png,./sprites/337.png
+338,Solrock,Sonnfel,Solaroc,Solrock ,Sollok ,Rock,Psychic,3,,3,180,178,163,2245,"30,00�%","9,00�%",No,./icon/338.png,./sprites/338.png
+339,Barboach,Schmerbe,Barloche,Dojoach ,Mikkuri ,Water,Ground,3,50,1,100,93,83,716,"50,00�%","10,00�%",No,./icon/339.png,./sprites/339.png
+340,Whiscash,Welsar,Barbicha,Namazun ,Meging ,Water,Ground,3,,1,220,151,142,1991,"20,00�%","6,00�%",No,./icon/340.png,./sprites/340.png
+341,Corphish,Krebscorps,�crapince,Heigani ,Gajaegun ,Water,,3,50,3,86,141,113,1107,"50,00�%","10,00�%",No,./icon/341.png,./sprites/341.png
+342,Crawdaunt,Krebutack,Colhomard,Shizariger ,Gajaejanggun ,Water,Dark,3,,3,126,224,156,2317,"20,00�%","6,00�%",No,./icon/342.png,./sprites/342.png
+343,Baltoy,Puppance,Balbuto,Yajilon ,Ottukgun ,Ground,Psychic,3,50,3,80,77,131,676,"50,00�%","10,00�%",No,./icon/343.png,./sprites/343.png
+344,Claydol,Lepumentas,Kaorine,Nendoll ,Jeomtodori ,Ground,Psychic,3,,3,120,140,236,1782,"20,00�%","6,00�%",No,./icon/344.png,./sprites/344.png
+345,Lileep,Liliep,Lilia,Lilyla ,Rilling ,Rock,Grass,3,50,3,132,105,154,1181,"50,00�%","10,00�%",No,./icon/345.png,./sprites/345.png
+346,Cradily,Wielie,Vacilys,Yuradle ,Rilliyo ,Rock,Grass,3,,3,172,152,198,2081,"20,00�%","6,00�%",No,./icon/346.png,./sprites/346.png
+347,Anorith,Anorith,Anorith,Anopth ,Anodipseu ,Rock,Bug,3,50,3,90,176,100,1310,"50,00�%","10,00�%",No,./icon/347.png,./sprites/347.png
+348,Armaldo,Armaldo,Armaldo,Armaldo ,Amaldo ,Rock,Bug,3,,3,150,222,183,2675,"20,00�%","6,00�%",No,./icon/348.png,./sprites/348.png
+349,Feebas,Barschwa,Barpau,Hinbass ,Bintina ,Water,,3,100,5,40,29,102,220,"70,00�%","15,00�%",No,./icon/349.png,./sprites/349.png
+350,Milotic,Milotic,Milobellus,Milokaross ,Millotik ,Water,,3,,5,190,192,242,2967,"10,00�%","7,00�%",No,./icon/350.png,./sprites/350.png
+351,Castform,Formeo,Morph�o,Powalen ,Kaeseupong ,Normal,,3,,5,140,139,139,1486,"30,00�%","10,00�%",No,./icon/351.png,./sprites/351.png
+351A,Castform,Formeo,Morph�o,Powalen ,Kaeseupong ,Water,,,,5,140,139,139,1486,"30,00�%","10,00�%",No,,./sprites/351A.png
+351B,Castform,Formeo,Morph�o,Powalen ,Kaeseupong ,Ice,,,,5,140,139,139,1486,"30,00�%","10,00�%",No,,./sprites/351B.png
+351C,Castform,Formeo,Morph�o,Powalen ,Kaeseupong ,Fire,,,,5,140,139,139,1486,"30,00�%","10,00�%",No,,./sprites/351C.png
+352,Kecleon,Kecleon,Kecleon,Kakureon ,Kellimon ,Normal,,3,,5,120,161,212,1924,"30,00�%","10,00�%",No,./icon/352.png,./sprites/352.png
+353,Shuppet,Shuppet,Polichombr,Kagebouzu ,Eodumnaesin ,Ghost,,3,50,3,88,138,66,872,"40,00�%","10,00�%",Yes,./icon/353.png,./sprites/353.png
+354,Banette,Banette,Branette,Juppeta ,Dakeupet ,Ghost,,3,,3,128,218,127,2073,"20,00�%","7,00�%",Yes,./icon/354.png,./sprites/354.png
+355,Duskull,Zwirrlicht,Skel�nox,Yomawaru ,Haegolmong ,Ghost,,3,25,3,40,70,162,523,"40,00�%","10,00�%",Yes,./icon/355.png,./sprites/355.png
+356,Dusclops,Zwirrklop,T�raclope,Samayouru ,Miramong ,Ghost,,3,100,3,80,124,234,1335,"20,00�%","7,00�%",Yes,./icon/356.png,./sprites/356.png
+357,Tropius,Tropius,Tropius,Tropius ,Teuropiuseu ,Grass,Flying,3,,5,198,136,165,1846,"30,00�%","10,00�%",No,./icon/357.png,./sprites/357.png
+358,Chimecho,Palimpalim,�oko,Chirean ,Chireong ,Psychic,,3,,5,150,175,174,2095,"30,00�%","10,00�%",No,./icon/358.png,./sprites/358.png
+359,Absol,Absol,Absol,Absol ,Aepsol ,Dark,,3,,5,130,246,120,2280,"50,00�%","10,00�%",Yes,./icon/359.png,./sprites/359.png
+360,Wynaut,Isso,Ok�ok�,Sohnano ,Maja ,Psychic,,3,25,3,190,41,86,503,"30,00�%","10,00�%",Yes,./icon/360.png,./sprites/360.png
+361,Snorunt,Schneppke,Stalgamin,Yukiwarashi ,Nunkkoma ,Ice,,3,50,3,100,95,95,772,"50,00�%","10,00�%",Yes,./icon/361.png,./sprites/361.png
+362,Glalie,Firnontor,Oniglali,Onigohri ,Eoreumgwisin ,Ice,,3,,3,160,162,162,1945,"20,00�%","6,00�%",Yes,./icon/362.png,./sprites/362.png
+363,Spheal,Seemops,Obalie,Tamazarashi ,Daegulle-o ,Ice,Water,3,25,3,140,95,90,876,"50,00�%","10,00�%",No,./icon/363.png,./sprites/363.png
+364,Sealeo,Seejong,Phogleur,Todoggler ,Ssire-o ,Ice,Water,3,100,3,180,137,132,1607,"25,00�%","7,00�%",No,./icon/364.png,./sprites/364.png
+365,Walrein,Walraisa,Kaimorse,Todoseruga ,Ssikaijeo ,Ice,Water,3,,3,220,182,176,2606,"12,50�%","5,00�%",No,./icon/365.png,./sprites/365.png
+366,Clamperl,Perlu,Coquiperl,Pearlulu ,Jinjumong ,Water,,3,50,3,70,133,149,1091,"50,00�%","10,00�%",No,./icon/366.png,./sprites/366.png
+367,Huntail,Aalabyss,Serpang,Huntail ,Heonteil ,Water,,3,,3,110,197,194,2140,"20,00�%","6,00�%",No,./icon/367.png,./sprites/367.png
+368,Gorebyss,Saganabyss,Rosabyss,Sakurabyss ,Bunhongjang-i ,Water,,3,,3,110,211,194,2281,"20,00�%","6,00�%",No,./icon/368.png,./sprites/368.png
+369,Relicanth,Relicanth,Relicanth,Glanth ,Sirakan ,Water,Rock,3,,5,200,162,234,2557,"90,00�%","1,00�%",No,./icon/369.png,./sprites/369.png
+370,Luvdisc,Liebiskus,Lovdisc,Lovecus ,Sarangdong-i ,Water,,3,,3,86,81,134,735,"30,00�%","10,00�%",Yes,./icon/370.png,./sprites/370.png
+371,Bagon,Kindwurm,Draby,Tatsubay ,Agong-i ,Dragon,,3,25,5,90,134,107,1053,"40,00�%","9,00�%",No,./icon/371.png,./sprites/371.png
+372,Shelgon,Draschel,Drackhaus,Komoruu ,Swelgon ,Dragon,,3,100,5,130,172,179,1958,"10,00�%","6,00�%",No,./icon/372.png,./sprites/372.png
+373,Salamence,Brutalanda,Drattak,Bohmander ,Bomanda ,Dragon,Flying,3,,5,190,277,168,3532,"5,00�%","5,00�%",No,./icon/373.png,./sprites/373.png
+374,Beldum,Tanhel,Terhal,Dumbber ,Metang ,Steel,Psychic,3,25,5,80,96,141,843,"40,00�%","9,00�%",Yes,./icon/374.png,./sprites/374.png
+375,Metang,Metang,M�tang,Metang ,Metanggu ,Steel,Psychic,3,100,5,120,138,185,1570,"10,00�%","6,00�%",Yes,./icon/375.png,./sprites/375.png
+376,Metagross,Metagross,M�talosse,Metagross ,Metageuroseu ,Steel,Psychic,3,,5,160,257,247,3637,"5,00�%","5,00�%",Yes,./icon/376.png,./sprites/376.png
+377,Regirock,Regirock,Regirock,Regirock ,Rejirak ,Rock,,3,,20,160,179,356,3087,"2,00�%","1,00�%",No,./icon/377.png,./sprites/377.png
+378,Regice,Regice,Regice,Regice ,Rejiaiseu ,Ice,,3,,20,160,179,356,3087,"2,00�%","1,00�%",No,./icon/378.png,./sprites/378.png
+379,Registeel,Registeel,Registeel,Registeel ,Rejiseutil ,Steel,,3,,20,160,143,285,2261,"2,00�%","1,00�%",No,./icon/379.png,./sprites/379.png
+380,Latias,Latias,Latias,Latias ,Ratiaseu ,Dragon,Psychic,3,,20,160,228,268,3377,"2,00�%","1,00�%",No,./icon/380.png,./sprites/380.png
+381,Latios,Latios,Latios,Latios ,Ratioseu ,Dragon,Psychic,3,,20,160,268,228,3644,"2,00�%","1,00�%",No,./icon/381.png,./sprites/381.png
+382,Kyogre,Kyogre,Kyogre,Kyogre ,Gaioga ,Water,,3,,20,182,270,251,4074,"2,00�%","1,00�%",Yes,./icon/382.png,./sprites/382.png
+383,Groudon,Groudon,Groudon,Groudon ,Geurandon ,Ground,,3,,20,182,270,251,4074,"2,00�%","1,00�%",No,./icon/383.png,./sprites/383.png
+384,Rayquaza,Rayquaza,Rayquaza,Rayquaza ,Rekujya ,Dragon,Flying,3,,20,191,284,170,3645,"2,00�%","1,00�%",No,./icon/384.png,./sprites/384.png
+385,Jirachi,Jirachi,Jirachi,Jirachi ,Jirachi ,Steel,Psychic,3,,20,200,210,210,3090,"2,00�%","1,00�%",No,./icon/385.png,./sprites/385.png
+386,Deoxys,Deoxys,Deoxys,Deoxys ,Te-okiseu ,Psychic,,3,,20,100,345,115,2749,"6,00�%","1,00�%",No,./icon/386.png,./sprites/386.png
+386A,Deoxys,Deoxys,Deoxys,Deoxys ,Te-okiseu ,Psychic,,,,20,100,414,46,2254,"6,00�%","1,00�%",No,,./sprites/386A.png
+386B,Deoxys,Deoxys,Deoxys,Deoxys ,Te-okiseu ,Psychic,,,,20,100,144,330,1978,"6,00�%","1,00�%",No,,./sprites/386B.png
+386C,Deoxys,Deoxys,Deoxys,Deoxys ,Te-okiseu ,Psychic,,,,20,100,230,218,2504,"6,00�%","1,00�%",No,,./sprites/386C.png
+387,Turtwig,Chelast,Tortipouss,Naetle ,Mobugi ,Grass,,4,25,3,146,119,110,1187,"20,00�%","10,00�%",No,./icon/387.png,./sprites/387.png
+388,Grotle,Chelcarain,Boskara,Hayashigame ,Supulbugi ,Grass,,4,100,3,181,157,143,1890,"10,00�%","7,00�%",No,./icon/388.png,./sprites/388.png
+389,Torterra,Chelterrar,Torterra,Dodaitose ,Todaebugi ,Grass,Ground,4,,3,216,202,188,2934,"5,00�%","5,00�%",No,./icon/389.png,./sprites/389.png
+390,Chimchar,Panflam,Ouisticram,Hikozaru ,Bulkkotsung-i ,Fire,,4,25,3,127,113,86,957,"20,00�%","10,00�%",No,./icon/390.png,./sprites/390.png
+391,Monferno,Panpyro,Chimpenfeu,Moukazaru ,Paisung-i ,Fire,Fighting,4,100,3,162,158,105,1574,"10,00�%","7,00�%",No,./icon/391.png,./sprites/391.png
+392,Infernape,Panferno,Simiabraz,Goukazaru ,Choyeommong ,Fire,Fighting,4,,3,183,222,151,2683,"5,00�%","5,00�%",No,./icon/392.png,./sprites/392.png
+393,Piplup,Plinfa,Tiplouf,Pochama ,Paengdori ,Water,,4,25,3,142,112,102,1075,"20,00�%","10,00�%",No,./icon/393.png,./sprites/393.png
+394,Prinplup,Pliprin,Prinplouf,Pottaishi ,Paengtaeja ,Water,,4,100,3,162,150,139,1701,"10,00�%","7,00�%",No,./icon/394.png,./sprites/394.png
+395,Empoleon,Impoleon,Pingol�on,Emperte ,Empereuteu ,Water,Steel,4,,3,197,210,186,2900,"5,00�%","5,00�%",No,./icon/395.png,./sprites/395.png
+396,Starly,Staralili,�tourmi,Mukkuru ,Jjireukko ,Normal,Flying,4,25,1,120,101,58,719,"50,00�%","20,00�%",No,./icon/396.png,./sprites/396.png
+397,Staravia,Staravia,�tourvol,Mukubird ,Jjireubeodeu ,Normal,Flying,4,100,1,146,142,94,1299,"25,00�%","9,00�%",No,./icon/397.png,./sprites/397.png
+398,Staraptor,Staraptor,�touraptor,Mukuhawk ,Jjireuhokeu ,Normal,Flying,4,,1,198,234,140,2742,"12,50�%","6,00�%",No,./icon/398.png,./sprites/398.png
+399,Bidoof,Bidiza,Keunotor,Bippa ,Bibeoni ,Normal,,4,50,1,153,80,73,721,"50,00�%","20,00�%",No,./icon/399.png,./sprites/399.png
+400,Bibarel,Bidifas,Castorno,Beadaru ,Bibeotong ,Normal,Water,4,,1,188,162,119,1823,"20,00�%","7,00�%",No,./icon/400.png,./sprites/400.png
+401,Kricketot,Zirpurze,Crikzik,Korobohshi ,Gwittulttugi ,Bug,,4,50,1,114,45,74,401,"50,00�%","20,00�%",No,./icon/401.png,./sprites/401.png
+402,Kricketune,Zirpeise,M�lokrik,Korotock ,Gwittultokkeu ,Bug,,4,,1,184,160,100,1653,"20,00�%","7,00�%",No,./icon/402.png,./sprites/402.png
+403,Shinx,Sheinux,Lixy,Kolink ,Kkoringkeu ,Electric,,4,25,5,128,117,64,876,"50,00�%","10,00�%",Yes,./icon/403.png,./sprites/403.png
+404,Luxio,Luxio,Luxio,Luxio ,Reoksio ,Electric,,4,100,5,155,159,95,1486,"25,00�%","7,00�%",Yes,./icon/404.png,./sprites/404.png
+405,Luxray,Luxtra,Luxray,Rentorar ,Renteura ,Electric,,4,,5,190,232,156,2888,"12,50�%","5,00�%",Yes,./icon/405.png,./sprites/405.png
+406,Budew,Knospi,Rozbouton,Subomie ,Kkomong-ul ,Grass,Poison,4,25,3,120,91,109,856,"10,00�%","4,00�%",Yes,./icon/406.png,./sprites/406.png
+407,Roserade,Roserade,Roserade,Roserade ,Rojeureideu ,Grass,Poison,4,,3,155,243,185,2971,"15,00�%","7,00�%",Yes,./icon/407.png,./sprites/407.png
+408,Cranidos,Koknodon,Kranidos,Zugaidos ,Dugaedoseu ,Rock,,4,50,1,167,218,71,1820,"50,00�%","10,00�%",No,./icon/408.png,./sprites/408.png
+409,Rampardos,Rameidon,Charkos,Rampald ,Raempeoldeu ,Rock,,4,,5,219,295,109,3298,"20,00�%","6,00�%",No,./icon/409.png,./sprites/409.png
+410,Shieldon,Schilterus,Dinoclier,Tatetops ,Bangpaetopseu ,Rock,Steel,4,50,5,102,76,195,890,"50,00�%","10,00�%",No,./icon/410.png,./sprites/410.png
+411,Bastiodon,Bollterus,Bastiodon,Torideps ,Baritopseu ,Rock,Steel,4,,5,155,94,286,1539,"20,00�%","6,00�%",No,./icon/411.png,./sprites/411.png
+412,Burmy,Burmy,Cheniti,Minomucchi ,Dorongchung-i ,Bug,,4,50,5,120,53,83,488,"50,00�%","20,00�%",No,./icon/412.png,
+413,Wormadam,Burmadame,Cheniselle,Minomadam ,Dorongmadam ,Bug,Grass,4,,1,155,141,180,1773,"15,00�%","7,00�%",No,./icon/413.png,
+413A,Wormadam,Burmadame,Cheniselle,Minomadam ,Dorongmadam ,Bug,Ground,,,1,155,141,180,1773,"15,00�%","7,00�%",No,,
+413B,Wormadam,Burmadame,Cheniselle,Minomadam ,Dorongmadam ,Bug,Steel,,,1,155,127,175,1593,"15,00�%","7,00�%",No,,
+414,Mothim,Moterpel,Papilord,Garmale ,Nameil ,Bug,Flying,4,,1,172,185,98,1815,"15,00�%","7,00�%",No,./icon/414.png,./sprites/414.png
+415,Combee,Wadribie,Apitrini,Mitsuhoney ,Sekkulbeori ,Bug,Flying,4,50,3,102,59,83,494,"15,00�%","7,00�%",No,./icon/415.png,./sprites/415.png
+416,Vespiquen,Honweisel,Apireine,Beequeen ,Bikwin ,Bug,Flying,4,,3,172,149,190,2005,"15,00�%","7,00�%",No,./icon/416.png,./sprites/416.png
+417,Pachirisu,Pachirisu,Pachirisu,Pachirisu ,Pachiriseu ,Electric,,4,,5,155,94,172,1213,"30,00�%","9,00�%",No,./icon/417.png,./sprites/417.png
+418,Buizel,Bamelin,Must�bou�e,Buoysel ,Beuijel ,Water,,4,50,3,146,132,67,1054,"50,00�%","10,00�%",No,./icon/418.png,./sprites/418.png
+419,Floatzel,Bojelin,Must�flott,Floazel ,Peullojel ,Water,,4,,3,198,221,114,2443,"20,00�%","6,00�%",No,./icon/419.png,./sprites/419.png
+420,Cherubi,Kikugi,Ceribou,Cherinbo ,Cheribeo ,Grass,,4,50,3,128,108,92,950,"50,00�%","9,00�%",No,./icon/420.png,./sprites/420.png
+421,Cherrim,Kinoso,Ceriflor,Cherrim ,Cherikko ,Grass,,4,,3,172,170,153,2048,"10,00�%","7,00�%",No,./icon/421.png,./sprites/421.png
+422,Shellos,Schalellos,Sancoki,Karanakushi ,Kkapjilmu ,Water,,4,50,5,183,103,105,1136,"50,00�%","10,00�%",No,./icon/422.png,
+423,Gastrodon,Gastrodon,Tritosor,Tritodon ,Teuritodon ,Water,Ground,4,,5,244,169,143,2324,"20,00�%","6,00�%",No,./icon/423.png,
+424,Ambipom,Ambidiffel,Capidextre,Eteboth ,Gethaenbosung ,Normal,,4,,1,181,205,143,2418,"20,00�%","6,00�%",No,./icon/424.png,./sprites/424.png
+425,Drifloon,Driftlon,Baudrive,Fuwante ,Heundeulpungson ,Ghost,Flying,4,50,5,207,117,80,1197,"40,00�%","10,00�%",Yes,./icon/425.png,./sprites/425.png
+426,Drifblim,Drifzepeli,Grodrive,Fuwaride ,Dungsillaideu ,Ghost,Flying,4,,5,312,180,102,2382,"20,00�%","7,00�%",Yes,./icon/426.png,./sprites/426.png
+427,Buneary,Haspiror,Laporeille,Mimirol ,Ieorol ,Normal,,4,50,3,146,130,105,1258,"50,00�%","10,00�%",No,./icon/427.png,./sprites/427.png
+428,Lopunny,Schlapor,Lockpin,Mimilop ,Ieorop ,Normal,,4,,3,163,156,194,2059,"20,00�%","6,00�%",No,./icon/428.png,./sprites/428.png
+429,Mismagius,Traunmagil,Magir�ve,Mumargi ,Muumajik ,Ghost,,4,,1,155,211,187,2615,"10,00�%","7,00�%",No,./icon/429.png,./sprites/429.png
+430,Honchkrow,Kramshef,Corboss,Donkarasu ,Donkeurou ,Dark,Flying,4,,3,225,243,103,2711,"10,00�%","7,00�%",Yes,./icon/430.png,./sprites/430.png
+431,Glameow,Charmian,Chaglam,Nyarmar ,Naongma ,Normal,,4,50,3,135,109,82,934,"40,00�%","10,00�%",No,./icon/431.png,./sprites/431.png
+432,Purugly,Shnurgarst,Chaffreux,Bunyatto ,Monnyang-i ,Normal,,4,,3,174,172,133,1953,"15,00�%","8,00�%",No,./icon/432.png,./sprites/432.png
+433,Chingling,Klingplim,Korillon,Lisyan ,Rangttallang ,Psychic,,4,50,1,128,114,94,1005,"10,00�%","4,00�%",No,./icon/433.png,./sprites/433.png
+434,Stunky,Skunkapuh,Moufouette,Skunpuu ,Seukeongppung ,Poison,Dark,4,50,3,160,121,90,1151,"50,00�%","10,00�%",No,./icon/434.png,./sprites/434.png
+435,Skuntank,Skuntank,Moufflair,Skutank ,Seukeongtaengkeu ,Poison,Dark,4,,3,230,184,132,2358,"20,00�%","6,00�%",No,./icon/435.png,./sprites/435.png
+436,Bronzor,Bronzel,Arch�omire,Dohmirror ,Dongmireo ,Steel,Psychic,4,50,3,149,43,154,603,"50,00�%","10,00�%",No,./icon/436.png,./sprites/436.png
+437,Bronzong,Bronzong,Arch�odong,Dohtakun ,Dongtakgun ,Steel,Psychic,4,,3,167,161,213,2239,"20,00�%","6,00�%",No,./icon/437.png,./sprites/437.png
+438,Bonsly,Mobai,Manza�,Usohachi ,Kkojiji ,Rock,,4,50,1,137,124,133,1302,"10,00�%","4,00�%",No,./icon/438.png,
+439,Mime Jr.,Pantimimi,Mime Jr.,Manene ,Hyungnaenae ,Psychic,Fairy,4,50,1,85,125,142,1095,"10,00�%","4,00�%",No,./icon/439.png,./sprites/439.png
+440,Happiny,Wonneira,Ptiravi,Pinpuku ,Pingbok ,Normal,,4,25,5,225,25,77,371,"10,00�%","4,00�%",No,./icon/440.png,./sprites/440.png
+441,Chatot,Plaudagei,Pijako,Perap ,Perape ,Normal,Flying,4,,5,183,183,91,1791,"30,00�%","9,00�%",No,./icon/441.png,./sprites/441.png
+442,Spiritomb,Kryppuk,Spiritomb,Mikaruge ,Hwagangdol ,Ghost,Dark,4,,5,137,169,199,2072,"10,00�%","4,00�%",No,./icon/442.png,./sprites/442.png
+443,Gible,Kaumalat,Griknot,Fukamaru ,Dipsang-eodong ,Dragon,Ground,4,25,5,151,124,84,1112,"40,00�%","9,00�%",No,./icon/443.png,./sprites/443.png
+444,Gabite,Knarksel,Carmache,Gabite ,Hanbaiteu ,Dragon,Ground,4,100,5,169,172,125,1874,"10,00�%","6,00�%",No,./icon/444.png,./sprites/444.png
+445,Garchomp,Knakrack,Carchacrok,Gaburias ,Hankariaseu ,Dragon,Ground,4,,5,239,261,193,3962,"5,00�%","5,00�%",No,./icon/445.png,./sprites/445.png
+446,Munchlax,Mampfaxo,Goinfrex,Gonbe ,Meokgoja ,Normal,,4,50,5,286,137,117,1892,"10,00�%","4,00�%",No,./icon/446.png,./sprites/446.png
+447,Riolu,Riolu,Riolu,Riolu ,Rioreu ,Fighting,,4,50,5,120,127,78,993,,"20,00�%",No,./icon/447.png,./sprites/447.png
+448,Lucario,Lucario,Lucario,Lucario ,Rukario ,Fighting,Steel,4,,5,172,236,144,2703,"10,00�%","5,00�%",No,./icon/448.png,./sprites/448.png
+449,Hippopotas,Hippopotas,Hippopotas,Hippopotas ,Hipopotaseu ,Ground,,4,50,1,169,124,118,1358,"40,00�%","10,00�%",No,./icon/449.png,
+450,Hippowdon,Hippoterus,Hippodocus,Kabaldon ,Hamadon ,Ground,,4,,1,239,201,191,3085,"15,00�%","8,00�%",No,./icon/450.png,
+451,Skorupi,Pionskora,Rapion,Scorupi ,Seukolpi ,Poison,Bug,4,50,5,120,93,151,1009,"40,00�%","10,00�%",No,./icon/451.png,./sprites/451.png
+452,Drapion,Piondragi,Drascore,Dorapion ,Deuraepion ,Poison,Dark,4,,5,172,180,202,2453,"15,00�%","8,00�%",No,./icon/452.png,./sprites/452.png
+453,Croagunk,Glibunkel,Cradopaud,Gureggru ,Ppittakguri ,Poison,Fighting,4,50,3,134,116,76,952,"40,00�%","12,00�%",No,./icon/453.png,./sprites/453.png
+454,Toxicroak,Toxiquak,Coatox,Dokurog ,Dokgaegul ,Poison,Fighting,4,,3,195,211,133,2488,"15,00�%","7,00�%",No,./icon/454.png,./sprites/454.png
+455,Carnivine,Venuflibis,Vortente,Muskippa ,Museuteumni ,Grass,,4,,5,179,187,136,2159,"90,00�%","1,00�%",No,./icon/455.png,./sprites/455.png
+456,Finneon,Finneon,�cayon,Keikouo ,Hyeonggwang-eo ,Water,,4,50,3,135,96,116,971,"50,00�%","10,00�%",No,./icon/456.png,./sprites/456.png
+457,Lumineon,Lumineon,Lumin�on,Neolant ,Ne-oraiteu ,Water,,4,,3,170,142,170,1814,"20,00�%","6,00�%",No,./icon/457.png,./sprites/457.png
+458,Mantyke,Mantirps,Babimanta,Tamanta ,Tamanta ,Water,Flying,4,,3,128,105,179,1248,"10,00�%","4,00�%",No,./icon/458.png,./sprites/458.png
+459,Snover,Shnebedeck,Blizzi,Yukikaburi ,Nunsseugae ,Grass,Ice,4,50,3,155,115,105,1159,"30,00�%","10,00�%",No,./icon/459.png,./sprites/459.png
+460,Abomasnow,Rexblisar,Blizzaroi,Yukinooh ,Nunseolwang ,Grass,Ice,4,,3,207,178,158,2362,"12,50�%","6,00�%",No,./icon/460.png,./sprites/460.png
+461,Weavile,Snibunna,Dimoret,Manyula ,Popunira ,Dark,Ice,4,,3,172,243,171,3005,"15,00�%","9,00�%",No,./icon/461.png,./sprites/461.png
+462,Magnezone,Magnezone,Magn�zone,Jibacoil ,Japokoil ,Electric,Steel,4,,3,172,238,205,3205,"12,50�%","5,00�%",No,./icon/462.png,./sprites/462.png
+463,Lickilicky,Schlurplek,Coudlangue,Berobelt ,Naerumbelteu ,Normal,,4,,3,242,161,181,2467,"15,00�%","9,00�%",No,./icon/463.png,./sprites/463.png
+464,Rhyperior,Rihornior,Rhinastoc,Dosidon ,Geodaekoppuri ,Ground,Rock,4,,3,251,241,190,3733,"5,00�%","5,00�%",No,./icon/464.png,./sprites/464.png
+465,Tangrowth,Tangoloss,Bouldeneu,Mojumbo ,Deongkurimbo ,Grass,,4,,3,225,207,184,3030,"15,00�%","10,00�%",No,./icon/465.png,
+466,Electivire,Elevoltek,�lekable,Elekible ,Erekibeul ,Electric,,4,,3,181,249,163,3079,"15,00�%","10,00�%",Yes,./icon/466.png,./sprites/466.png
+467,Magmortar,Magbrant,Maganon,Booburn ,Mageumabeon ,Fire,,4,,3,181,247,172,3132,"15,00�%","10,00�%",Yes,./icon/467.png,./sprites/467.png
+468,Togekiss,Togekiss,Togekiss,Togekiss ,Togekiseu ,Fairy,Flying,4,,3,198,225,217,3332,"1,00�%","5,00�%",Yes,./icon/468.png,./sprites/468.png
+469,Yanmega,Yanmega,Yanm�ga,Megayanma ,Megajari ,Bug,Flying,4,,3,200,231,156,2946,"17,50�%","5,00�%",No,./icon/469.png,
+470,Leafeon,Folipurba,Phyllali,Leafia ,Ripia ,Grass,,4,,3,163,216,219,2944,"12,50�%","6,00�%",No,./icon/470.png,./sprites/470.png
+471,Glaceon,Glaziola,Givrali,Glacia ,Geulleisia ,Ice,,4,,3,163,238,205,3126,"12,50�%","6,00�%",No,./icon/471.png,./sprites/471.png
+472,Gliscor,Skorgro,Scorvol,Glion ,Geullaion ,Ground,Flying,4,,3,181,185,222,2692,"12,50�%","9,00�%",No,./icon/472.png,./sprites/472.png
+473,Mamoswine,Mamutel,Mammochon,Mammoo ,Mammokkuri ,Ice,Ground,4,,1,242,247,146,3328,"5,00�%","5,00�%",No,./icon/473.png,./sprites/473.png
+474,Porygon-Z,Porygon-Z,Porygon-Z,ZPorygon-Z ,ZPorygonZ ,Normal,,4,,3,198,264,150,3266,"5,00�%","5,00�%",No,./icon/474.png,./sprites/474.png
+475,Gallade,Galagladi,Gallame,Erureido ,Elleideu ,Psychic,Fighting,4,,5,169,237,195,3093,"5,00�%","5,00�%",No,./icon/475.png,./sprites/475.png
+476,Probopass,Voluminas,Tarinorme,Dainose ,Daekopaseu ,Rock,Steel,4,,3,155,135,275,2080,"10,00�%","7,00�%",No,./icon/476.png,./sprites/476.png
+477,Dusknoir,Zwirrfinst,Noctunior,Yonoir ,Yaneuwareumong ,Ghost,,4,,3,128,180,254,2388,"10,00�%","5,00�%",Yes,./icon/477.png,./sprites/477.png
+478,Froslass,Frosdedje,Mamartik,Yukimenoko ,Nun-yeoa ,Ice,Ghost,4,,3,172,171,150,2040,"20,00�%","7,00�%",No,./icon/478.png,./sprites/478.png
+479,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Ghost,4,,5,137,185,159,2031,"30,00�%","10,00�%",No,./icon/479.png,
+479A,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Fire,,,5,137,204,219,2579,"30,00�%","10,00�%",No,,
+479B,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Water,,,5,137,204,219,2579,"30,00�%","10,00�%",No,,
+479C,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Ice,,,5,137,204,219,2579,"30,00�%","10,00�%",No,,
+479D,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Flying,,,5,137,204,219,2579,"30,00�%","10,00�%",No,,
+479E,Rotom,Rotom,Motisma,Rotom ,Rotomu ,Electric,Grass,,,5,137,204,219,2579,"30,00�%","10,00�%",No,,
+480,Uxie,Selfe,Cr�helf,Yuxie ,Yukeusi ,Psychic,,4,,20,181,156,270,2524,"2,00�%","4,00�%",No,./icon/480.png,./sprites/480.png
+481,Mesprit,Vesprit,Cr�follet,Emrit ,Emraiteu ,Psychic,,4,,20,190,212,212,3058,"2,00�%","4,00�%",No,./icon/481.png,./sprites/481.png
+482,Azelf,Tobutz,Cr�fadet,Agnome ,Ageunom ,Psychic,,4,,20,181,270,151,3210,"2,00�%","4,00�%",No,./icon/482.png,./sprites/482.png
+483,Dialga,Dialga,Dialga,Dialga ,Diaruga ,Steel,Dragon,4,,20,205,275,211,4038,"2,00�%","4,00�%",No,./icon/483.png,./sprites/483.png
+484,Palkia,Palkia,Palkia,Palkia ,Peolgia ,Water,Dragon,4,,20,189,280,215,3991,"2,00�%","4,00�%",No,./icon/484.png,./sprites/484.png
+485,Heatran,Heatran,Heatran,Heatran ,Hideureon ,Fire,Steel,4,,20,209,251,213,3754,"2,00�%","4,00�%",No,./icon/485.png,./sprites/485.png
+486,Regigigas,Regigigas,Regigigas,Regigigas ,Rejigigaseu ,Normal,,4,,20,221,287,210,4346,"2,00�%","4,00�%",No,./icon/486.png,./sprites/486.png
+487,Giratina,Giratina,Giratina,Giratina ,Giratina ,Ghost,Dragon,4,,20,284,187,225,3379,"2,00�%","4,00�%",No,./icon/487.png,./sprites/487.png
+487A,Giratina,Giratina,Giratina,Giratina ,Giratina ,Ghost,Dragon,,,20,284,225,187,3683,"2,00�%","4,00�%",No,,./sprites/487A.png
+488,Cresselia,Cresselia,Cresselia,Crecelia ,Keureseria ,Psychic,,4,,20,260,152,258,2857,"2,00�%","4,00�%",No,./icon/488.png,./sprites/488.png
+489,Phione,Phione,Phione,Phione ,Pione ,Water,,4,50,20,190,162,162,2105,"2,00�%",,No,./icon/489.png,./sprites/489.png
+490,Manaphy,Manaphy,Manaphy,Manaphy ,Manapi ,Water,,4,,20,225,210,210,3265,"2,00�%",,No,./icon/490.png,
+491,Darkrai,Darkrai,Darkrai,Darkrai ,Dakeurai ,Dark,,4,,20,172,285,198,3739,"2,00�%",,No,./icon/491.png,./sprites/491.png
+492,Shaymin,Shaymin,Shaymin,Shaymin ,Sweimi ,Grass,,4,,20,225,210,210,3265,"2,00�%",,No,./icon/492.png,./sprites/492.png
+492A,Shaymin,Shaymin,Shaymin,Shaymin ,Sweimi ,Grass,Flying,,,20,225,261,166,3592,"2,00�%",,No,,
+493,Arceus,Arceus,Arceus,Arceus ,Areuse-useu ,Normal,,4,,20,237,238,238,3989,"2,00�%",,No,./icon/493.png,
+494,Victini,Victini,Victini,Victini ,Bikeutini ,Psychic,Fire,5,,,,,,,,,,./icon/494.png,
+495,Snivy,Serpifeu,Vip�lierre,Tsutarja ,Juribiyan ,Grass,,5,,,,,,,,,,./icon/495.png,
+496,Servine,Efoserp,Lianaja,Janovy ,Syabi ,Grass,,5,,,,,,,,,,./icon/496.png,
+497,Serperior,Serpiroyal,Majaspic,Jalorda ,Syaroda ,Grass,,5,,,,,,,,,,./icon/497.png,
+498,Tepig,Floink,Gruikui,Pokabu ,Ttukkuri ,Fire,,5,,,,,,,,,,./icon/498.png,
+499,Pignite,Ferkokel,Grotichon,Chaoboo ,Chyaokkul ,Fire,Fighting,5,,,,,,,,,,./icon/499.png,
+500,Emboar,Flambirex,Roitiflam,Enbuoh ,Yeommuwang ,Fire,Fighting,5,,,,,,,,,,./icon/500.png,
+501,Oshawott,Ottaro,Moustillon,Mijumaru ,Sudaeng'i ,Water,,5,,,,,,,,,,./icon/501.png,
+502,Dewott,Zwottronin,Mateloutre,Futachimaru ,Ssang-geomjabi ,Water,,5,,,,,,,,,,./icon/502.png,
+503,Samurott,Admurai,Clamiral,Daikenki ,Daegeomgwi ,Water,,5,,,,,,,,,,./icon/503.png,
+504,Patrat,Nagelotz,Ratentif,Minezumi ,Boreujwi ,Normal,,5,,,,,,,,,,./icon/504.png,
+505,Watchog,Kukmarda,Miradar,Miruhog ,Boreugeu ,Normal,,5,,,,,,,,,,./icon/505.png,
+506,Lillipup,Yorkleff,Ponchiot,Yorterrie ,Yoteri ,Normal,,5,,,,,,,,,,./icon/506.png,
+507,Herdier,Terribark,Ponchien,Herderrie ,Haderieo ,Normal,,5,,,,,,,,,,./icon/507.png,
+508,Stoutland,Bissbark,Mastouffe,Mooland ,Baraendeu ,Normal,,5,,,,,,,,,,./icon/508.png,
+509,Purrloin,Felilou,Chacripan,Choroneko ,Ssaebinyang ,Dark,,5,,,,,,,,,,./icon/509.png,
+510,Liepard,Kleoparda,L�opardus,Lepardas ,Repareudaseu ,Dark,,5,,,,,,,,,,./icon/510.png,
+511,Pansage,Vegimak,Feuillajou,Yanappu ,Yanapeu ,Grass,,5,,,,,,,,,,./icon/511.png,
+512,Simisage,Vegichita,Feuiloutan,Yanakkie ,Yanaki ,Grass,,5,,,,,,,,,,./icon/512.png,
+513,Pansear,Grillmak,Flamajou,Baoppu ,Baopeu ,Fire,,5,,,,,,,,,,./icon/513.png,
+514,Simisear,Grillchita,Flamoutan,Baokkie ,Baoki ,Fire,,5,,,,,,,,,,./icon/514.png,
+515,Panpour,Sodamak,Flotajou,Hiyappu ,Aschapeu ,Water,,5,,,,,,,,,,./icon/515.png,
+516,Simipour,Sodachita,Flotoutan,Hiyakkie ,Aschaki ,Water,,5,,,,,,,,,,./icon/516.png,
+517,Munna,Somniam,Munna,Munna ,Mongna ,Psychic,,5,,,,,,,,,,./icon/517.png,
+518,Musharna,Somnivora,Mushana,Musharna ,Mong-yamna ,Psychic,,5,,,,,,,,,,./icon/518.png,
+519,Pidove,Dusselgurr,Poichigeon,Mamepato ,Kongdulgi ,Normal,Flying,5,,,,,,,,,,./icon/519.png,
+520,Tranquill,Navitaub,Colombeau,Hatoboh ,Yutobeu ,Normal,Flying,5,,,,,,,,,,./icon/520.png,
+521,Unfezant,Fasasnob,D�flaisan,Kenhallow ,Kenhallow ,Normal,Flying,5,,,,,,,,,,./icon/521.png,
+522,Blitzle,Elezeba,Z�bibron,Shimama ,Julmyuma ,Electric,,5,,,,,,,,,,./icon/522.png,
+523,Zebstrika,Zebritz,Z�blitz,Zebraika ,Jebeuraika ,Electric,,5,,,,,,,,,,./icon/523.png,
+524,Roggenrola,Kiesling,Nodulithe,Dangoro ,Dangul ,Rock,,5,,,,,,,,,,./icon/524.png,
+525,Boldore,Sedimantur,G�olithe,Gantle ,Amteureu ,Rock,,5,,,,,,,,,,./icon/525.png,
+526,Gigalith,Brockoloss,Gigalithe,Gigaiath ,Gigaieoseu ,Rock,,5,,,,,,,,,,./icon/526.png,
+527,Woobat,Fleknoil,Chovsourir,Koromori ,Ttoreubakjwi ,Psychic,Flying,5,,,,,,,,,,./icon/527.png,
+528,Swoobat,Fletiamo,Rhinolove,Kokoromori ,Mambakjwi ,Psychic,Flying,5,,,,,,,,,,./icon/528.png,
+529,Drilbur,Rotomurf,Rototaupe,Mogurew ,Dudeorew ,Ground,,5,,,,,,,,,,./icon/529.png,
+530,Excadrill,Stalobor,Minotaupe,Doryuzu ,Moldrew ,Ground,Steel,5,,,,,,,,,,./icon/530.png,
+531,Audino,Ohrdoch,Nanm�ou�e,Tabunne ,Dabuni ,Normal,,5,,,,,,,,,,./icon/531.png,
+532,Timburr,Praktibalk,Charpenti,Dokkorer ,Euratcha ,Fighting,,5,,,,,,,,,,./icon/532.png,
+533,Gurdurr,Strepoli,Ouvrifier,Dotekkotsu ,Tosoegol ,Fighting,,5,,,,,,,,,,./icon/533.png,
+534,Conkeldurr,Meistagrif,B�tochef,Roubushin ,Nobocheong ,Fighting,,5,,,,,,,,,,./icon/534.png,
+535,Tympole,Schallquap,Tritonde,Otamaro ,Dongchaengi ,Water,,5,,,,,,,,,,./icon/535.png,
+536,Palpitoad,Mebrana,Batracn�,Gamagaru ,Duggabi ,Water,Ground,5,,,,,,,,,,./icon/536.png,
+537,Seismitoad,Branawarz,Crapustule,Gamageroge ,Dubiggul ,Water,Ground,5,,,,,,,,,,./icon/537.png,
+538,Throh,Jiutesto,Judokrak,Nageki ,Deonjimi ,Fighting,,5,,,,,,,,,,./icon/538.png,
+539,Sawk,Karadonis,Karacl�e,Dageki ,Tagyeokgwi ,Fighting,,5,,,,,,,,,,./icon/539.png,
+540,Sewaddle,Strawickl,Larveyette,Kurumiru ,Dureubo ,Bug,Grass,5,,,,,,,,,,./icon/540.png,
+541,Swadloon,Folikon,Couverdure,Kurumayu ,Dureukun ,Bug,Grass,5,,,,,,,,,,./icon/541.png,
+542,Leavanny,Matrifol,Manternel,Hahakomori ,Moameo ,Bug,Grass,5,,,,,,,,,,./icon/542.png,
+543,Venipede,Toxiped,Venipatte,Fushide ,Madine ,Bug,Poison,5,,,,,,,,,,./icon/543.png,
+544,Whirlipede,Rollum,Scobolide,Wheega ,Hwilgu ,Bug,Poison,5,,,,,,,,,,./icon/544.png,
+545,Scolipede,Cerapendra,Brutapode,Pendror ,Pendeura ,Bug,Poison,5,,,,,,,,,,./icon/545.png,
+546,Cottonee,Waumboll,Doudouvet,Monmen ,Somian ,Grass,Fairy,5,,,,,,,,,,./icon/546.png,
+547,Whimsicott,Elfun,Farfaduvet,Elfuun ,Elpung ,Grass,Fairy,5,,,,,,,,,,./icon/547.png,
+548,Petilil,Lilminip,Chlorobule,Churine ,Chirilli ,Grass,,5,,,,,,,,,,./icon/548.png,
+549,Lilligant,Dressella,Fragilady,Dredear ,Deuredieo ,Grass,,5,,,,,,,,,,./icon/549.png,
+550,Basculin,Barschuft,Bargantua,Bassrao ,Baesseunai ,Water,,5,,,,,,,,,,./icon/550.png,
+551,Sandile,Ganovil,Masca�man,Meguroco ,Kkamnunkeu ,Ground,Dark,5,,,,,,,,,,./icon/551.png,
+552,Krokorok,Rokkaiman,Escroco,Waruvile ,Akbireu ,Ground,Dark,5,,,,,,,,,,./icon/552.png,
+553,Krookodile,Rabigator,Crocorible,Waruvial ,Akbiareu ,Ground,Dark,5,,,,,,,,,,./icon/553.png,
+554,Darumaka,Flampion,Darumarond,Darumakka ,Dalmakhwa ,Fire,,5,,,,,,,,,,./icon/554.png,
+555,Darmanitan,Flampivian,Darumacho,Hihidaruma ,Bulbidarma ,Fire,,5,,,,,,,,,,./icon/555.png,
+556,Maractus,Maracamba,Maracachi,Maracacchi ,Marakachi ,Grass,,5,,,,,,,,,,./icon/556.png,
+557,Dwebble,Lithomith,Crabicoque,Ishizumai ,Dolsali ,Bug,Rock,5,,,,,,,,,,./icon/557.png,
+558,Crustle,Castellith,Crabaraque,Iwapalace ,Ampaeriseu ,Bug,Rock,5,,,,,,,,,,./icon/558.png,
+559,Scraggy,Zurrokex,Baggiguane,Zuruggu ,Gonyullaeng ,Dark,Fighting,5,,,,,,,,,,./icon/559.png,
+560,Scrafty,Irokex,Bagga�d,Zuruzukin ,Gonyugeoni ,Dark,Fighting,5,,,,,,,,,,./icon/560.png,
+561,Sigilyph,Symvolara,Crypt�ro,Symboler ,Simboreo ,Psychic,Flying,5,,,,,,,,,,./icon/561.png,
+562,Yamask,Makabaja,Tutafeh,Desumasu ,Deseumaseu ,Ghost,,5,,,,,,,,,,./icon/562.png,
+563,Cofagrigus,Echnatoll,Tutankafer,Desukarn ,Deseunikan ,Ghost,,5,,,,,,,,,,./icon/563.png,
+564,Tirtouga,Galapaflos,Carapagos,Protoga ,Protoga ,Water,Rock,5,,,,,,,,,,./icon/564.png,
+565,Carracosta,Karippas,M�gapagos,Abagoura ,Neukgolla ,Water,Rock,5,,,,,,,,,,./icon/565.png,
+566,Archen,Flapteryx,Ark�apti,Archen ,Aken ,Rock,Flying,5,,,,,,,,,,./icon/566.png,
+567,Archeops,Aeropteryx,A�ropt�ryx,Archeos ,Akeoseu ,Rock,Flying,5,,,,,,,,,,./icon/567.png,
+568,Trubbish,Unrat�tox,Miamiasme,Yabukuron ,Kkaebongi ,Poison,,5,,,,,,,,,,./icon/568.png,
+569,Garbodor,Deponitox,Miasmax,Dustdas ,Deoseuteuna ,Poison,,5,,,,,,,,,,./icon/569.png,
+570,Zorua,Zorua,Zorua,Zorua ,Joroa ,Dark,,5,,,,,,,,,,./icon/570.png,
+571,Zoroark,Zoroark,Zoroark,Zoroark ,Joroakeu ,Dark,,5,,,,,,,,,,./icon/571.png,
+572,Minccino,Picochilla,Chinchidou ,Chillarmy ,Chirami ,Normal,,5,,,,,,,,,,./icon/572.png,
+573,Cinccino,Chillabell,Pashmilla ,Chillaccino ,Chirachino ,Normal,,5,,,,,,,,,,./icon/573.png,
+574,Gothita,Mollimorba,Scrutella ,Gothimu ,Goditaeng ,Psychic,,5,,,,,,,,,,./icon/574.png,
+575,Gothorita,Hypnomorba,Mesm�rella ,Gochimiru ,Godibomi ,Psychic,,5,,,,,,,,,,./icon/575.png,
+576,Gothitelle,Morbitesse,Sid�rella ,Gothiruselle ,Godimoajel ,Psychic,,5,,,,,,,,,,./icon/576.png,
+577,Solosis,Monozyto,Nucl�os ,Uniran ,Yuniran ,Psychic,,5,,,,,,,,,,./icon/577.png,
+578,Duosion,Mitodos,M�ios ,Doublan ,Dyuran ,Psychic,,5,,,,,,,,,,./icon/578.png,
+579,Reuniclus,Zytomega,Symbios ,Lanculus ,Rankulluseu ,Psychic,,5,,,,,,,,,,./icon/579.png,
+580,Ducklett,Piccolente,Couaneton ,Koaruhie ,Kkojibori ,Water,Flying,5,,,,,,,,,,./icon/580.png,
+581,Swanna,Swaroness,Lakm�cygne ,Swanna ,Seuwanna ,Water,Flying,5,,,,,,,,,,./icon/581.png,
+582,Vanillite,Gelatini,Sorb�b� ,Vanipeti ,Banilpeuti ,Ice,,5,,,,,,,,,,./icon/582.png,
+583,Vanillish,Gelatroppo,Sorboul ,Vanirich ,Banillichi ,Ice,,5,,,,,,,,,,./icon/583.png,
+584,Vanilluxe,Gelatwino,Sorbouboul ,Baivanilla ,Baivanilla ,Ice,,5,,,,,,,,,,./icon/584.png,
+585,Deerling,Sesokitz,Vivaldaim ,Shikijika ,Sacheollok ,Normal,Grass,5,,,,,,,,,,./icon/585.png,
+586,Sawsbuck,Kronjuwild,Haydaim ,Mebukijika ,Baracheollok ,Normal,Grass,5,,,,,,,,,,./icon/586.png,
+587,Emolga,Emolga,Emolga ,Emonga ,Emongga ,Electric,Flying,5,,,,,,,,,,./icon/587.png,
+588,Karrablast,Laukaps,Carabing ,Kaburumo ,Ttakjeonggon ,Bug,,5,,,,,,,,,,./icon/588.png,
+589,Escavalier,Cavalanzas,Lan�argot ,Chevargo ,Syubareugo ,Bug,Steel,5,,,,,,,,,,./icon/589.png,
+590,Foongus,Tarnpignon,Trompignon ,Tamagetake ,Kkamnolbeoseul ,Grass,Poison,5,,,,,,,,,,./icon/590.png,
+591,Amoonguss,Hutsassa,Gaulet ,Morobareru ,Pporokna ,Grass,Poison,5,,,,,,,,,,./icon/591.png,
+592,Frillish,Quabbel,Viskuse ,Pururill ,Taenggeuril ,Water,Ghost,5,,,,,,,,,,./icon/592.png,
+593,Jellicent,Apoquallyp,Moyade ,Burungel ,Taengtaenggel ,Water,Ghost,5,,,,,,,,,,./icon/593.png,
+594,Alomomola,Mamolida,Mamanbo ,Mamanbou ,Mambokchi ,Water,,5,,,,,,,,,,./icon/594.png,
+595,Joltik,Wattzapf,Statitik ,Bachuru ,Pijjook ,Bug,Electric,5,,,,,,,,,,./icon/595.png,
+596,Galvantula,Voltula,Mygavolt ,Dentula ,Jeontulla ,Bug,Electric,5,,,,,,,,,,./icon/596.png,
+597,Ferroseed,Kastadur,Grindur ,Tesseed ,Cheolsideu ,Grass,Steel,5,,,,,,,,,,./icon/597.png,
+598,Ferrothorn,Tentantel,Noacier ,Nutrey ,Neoteuryeong ,Grass,Steel,5,,,,,,,,,,./icon/598.png,
+599,Klink,Klikk,Tic ,Giaru ,Gieoreu ,Steel,,5,,,,,,,,,,./icon/599.png,
+600,Klang,Kliklak,Clic ,Gigiaru ,Gigieoreu ,Steel,,5,,,,,,,,,,./icon/600.png,
+601,Klinklang,Klikdiklak,Cliticlic ,Gigigiaru ,Gigigieoreu ,Steel,,5,,,,,,,,,,./icon/601.png,
+602,Tynamo,Zapplardin,Anchwatt ,Shibishirasu ,Jeorieo ,Electric,,5,,,,,,,,,,./icon/602.png,
+603,Eelektrik,Zapplalek,Lamp�roie ,Shibibeel ,Jeoriril ,Electric,,5,,,,,,,,,,./icon/603.png,
+604,Eelektross,Zapplarang,Ohmassacre ,Shibirudon ,Jeorideopeu ,Electric,,5,,,,,,,,,,./icon/604.png,
+605,Elgyem,Pygraulon,Lewsor ,Ligray ,Rigeure ,Psychic,,5,,,,,,,,,,./icon/605.png,
+606,Beheeyem,Megalon,Neitram ,Ohbem ,Bemkeu ,Psychic,,5,,,,,,,,,,./icon/606.png,
+607,Litwick,Lichtel,Fun�cire ,Hitomoshi ,Bulkyeomi ,Ghost,Fire,5,,,,,,,,,,./icon/607.png,
+608,Lampent,Laternecto,M�lancolux ,Lampler ,Raempeura ,Ghost,Fire,5,,,,,,,,,,./icon/608.png,
+609,Chandelure,Skelabra,Lugulabre ,Chandela ,Syangdella ,Ghost,Fire,5,,,,,,,,,,./icon/609.png,
+610,Axew,Milza,Coupenotte ,Kibago ,Teogeomni ,Dragon,,5,,,,,,,,,,./icon/610.png,
+611,Fraxure,Sharfax,Incisache ,Onondo ,Aekseundo ,Dragon,,5,,,,,,,,,,./icon/611.png,
+612,Haxorus,Maxax,Tranchodon ,Ononokus ,Aekseuraijeu ,Dragon,,5,,,,,,,,,,./icon/612.png,
+613,Cubchoo,Petznief,Polarhume ,Kumasyun ,Kogomi ,Ice,,5,,,,,,,,,,./icon/613.png,
+614,Beartic,Siberio,Polagriffe ,Tunbear ,Tunbeeo ,Ice,,5,,,,,,,,,,./icon/614.png,
+615,Cryogonal,Frigometri,Hexagel ,Freegeo ,Peurijio ,Ice,,5,,,,,,,,,,./icon/615.png,
+616,Shelmet,Schnuthelm,Escargaume ,Chobomaki ,Jjomari ,Bug,,5,,,,,,,,,,./icon/616.png,
+617,Accelgor,Hydragil,Limaspeed ,Agilder ,Eojirideo ,Bug,,5,,,,,,,,,,./icon/617.png,
+618,Stunfisk,Flunschlik,Limonde ,Maggyo ,Medeo ,Ground,Electric,5,,,,,,,,,,./icon/618.png,
+619,Mienfoo,Lin-Fu,Kungfouine ,Kojofu ,Bijopu ,Fighting,,5,,,,,,,,,,./icon/619.png,
+620,Mienshao,Wie-Shu,Shaofouine ,Kojondo ,Bijodo ,Fighting,,5,,,,,,,,,,./icon/620.png,
+621,Druddigon,Shardrago,Drakkarmin ,Crimgan ,Keuriman ,Dragon,,5,,,,,,,,,,./icon/621.png,
+622,Golett,Golbit,Gringolem ,Gobit ,Golbiram ,Ground,Ghost,5,,,,,,,,,,./icon/622.png,
+623,Golurk,Golgantes,Golemastoc ,Goloog ,Gollugeu ,Ground,Ghost,5,,,,,,,,,,./icon/623.png,
+624,Pawniard,Gladiantri,Scalpion ,Komatana ,Jamangkal ,Dark,Steel,5,,,,,,,,,,./icon/624.png,
+625,Bisharp,Caesurio,Scalproie ,Kirikizan ,Jeolgakcham ,Dark,Steel,5,,,,,,,,,,./icon/625.png,
+626,Bouffalant,Bisofank,Frison ,Buffron ,Beopeuron ,Normal,,5,,,,,,,,,,./icon/626.png,
+627,Rufflet,Geronimatz,Furaiglon ,Washibon ,Suridungbo ,Normal,Flying,5,,,,,,,,,,./icon/627.png,
+628,Braviary,Washakwil,Gueriaigle ,Warrgle ,Weoguel ,Normal,Flying,5,,,,,,,,,,./icon/628.png,
+629,Vullaby,Skallyk,Vostourno ,Valchai ,Beolchai ,Dark,Flying,5,,,,,,,,,,./icon/629.png,
+630,Mandibuzz,Grypheldis,Vaututrice ,Vulgina ,Beoraenjina ,Dark,Flying,5,,,,,,,,,,./icon/630.png,
+631,Heatmor,Furnifra�,Aflamanoir ,Kuitaran ,Aentigol ,Fire,,5,,,,,,,,,,./icon/631.png,
+632,Durant,Fermicula,Fermite ,Aiant ,Aiaenteu ,Bug,Steel,5,,,,,,,,,,./icon/632.png,
+633,Deino,Kapuno,Solochi ,Monozu ,Monodu ,Dark,Dragon,5,,,,,,,,,,./icon/633.png,
+634,Zweilous,Duodino,Diamat ,Dihead ,Dihedeu ,Dark,Dragon,5,,,,,,,,,,./icon/634.png,
+635,Hydreigon,Trikephalo,Trioxhydre ,Sazandora ,Samsamdeurae ,Dark,Dragon,5,,,,,,,,,,./icon/635.png,
+636,Larvesta,Ignivor,Pyronille ,Merlarva ,Hwalhwareuba ,Bug,Fire,5,,,,,,,,,,./icon/636.png,
+637,Volcarona,Ramoth,Pyrax ,Ulgamoth ,Bulkamoseu ,Bug,Fire,5,,,,,,,,,,./icon/637.png,
+638,Cobalion,Kobalium,Cobaltium ,Cobalon ,Kobareuon ,Steel,Fighting,5,,,,,,,,,,./icon/638.png,
+639,Terrakion,Terrakium,Terrakium ,Terrakion ,Terakion ,Rock,Fighting,5,,,,,,,,,,./icon/639.png,
+640,Virizion,Viridium,Viridium ,Virizion ,Biridion ,Grass,Fighting,5,,,,,,,,,,./icon/640.png,
+641,Tornadus,Boreos,Bor�as ,Tornelos ,Toneroseu ,Flying,,5,,,,,,,,,,./icon/641.png,
+642,Thundurus,Voltolos,Fulguris ,Voltolos ,Bolteuroseu ,Electric,Flying,5,,,,,,,,,,./icon/642.png,
+643,Reshiram,Reshiram,Reshiram ,Reshiram ,Resiramu ,Dragon,Fire,5,,,,,,,,,,./icon/643.png,
+644,Zekrom,Zekrom,Zekrom ,Zekrom ,Jekeuromu ,Dragon,Electric,5,,,,,,,,,,./icon/644.png,
+645,Landorus,Demeteros,D�m�t�ros ,Landlos ,Raendeuroseu ,Ground,Flying,5,,,,,,,,,,./icon/645.png,
+646,Kyurem,Kyurem,Kyurem ,Kyurem ,Kyuremu ,Dragon,Ice,5,,,,,,,,,,./icon/646.png,
+647,Keldeo,Keldeo,Keldeo ,Keldeo ,Kereudio ,Water,Fighting,5,,,,,,,,,,./icon/647.png,
+648,Meloetta,Meloetta,Meloetta ,Meloetta ,Meroetta ,Normal,Psychic,5,,,,,,,,,,./icon/648.png,
+649,Genesect,Genesect,Genesect ,Genesect ,Genosekeuteu ,Bug,Steel,5,,,,,,,,,,./icon/649.png,
+650,Chespin,Igamaro,Marisson ,Harimaron ,Dochimaron ,Grass,,6,,,,,,,,,,./icon/650.png,
+651,Quilladin,Igastarnish,Bogu�risse ,Hariborg ,Dochibogu ,Grass,,6,,,,,,,,,,./icon/651.png,
+652,Chesnaught,Brigaron,Blind�pique ,Brigarron ,Beurigaron ,Grass,Fighting,6,,,,,,,,,,./icon/652.png,
+653,Fennekin,Fynx,Feunnec ,Fokko ,Puho'kko ,Fire,,6,,,,,,,,,,./icon/653.png,
+654,Braixen,Rutena,Roussil ,Tairenar ,Tereuna ,Fire,,6,,,,,,,,,,./icon/654.png,
+655,Delphox,Fennexis,Goupelin ,Mahoxy ,Mapoksi ,Fire,Psychic,6,,,,,,,,,,./icon/655.png,
+656,Froakie,Froxy,Grenousse ,Keromatsu ,Gaegumareu ,Water,,6,,,,,,,,,,./icon/656.png,
+657,Frogadier,Amphizel,Cro�poral ,Gekogashira ,Gaegulbanjang ,Water,,6,,,,,,,,,,./icon/657.png,
+658,Greninja,Quajutsu,Amphinobi ,Gekkouga ,Gaegulninja ,Water,Dark,6,,,,,,,,,,./icon/658.png,
+659,Bunnelby,Scoppel,Sapereau ,Horubee ,Pareubit ,Normal,,6,,,,,,,,,,./icon/659.png,
+660,Diggersby,Grebbit,Excavarenne ,Horudo ,Pareuto ,Normal,Ground,6,,,,,,,,,,./icon/660.png,
+661,Fletchling,Dartiri,Passerouge ,Yayakoma ,Hwasal'kkobin ,Normal,Flying,6,,,,,,,,,,./icon/661.png,
+662,Fletchinder,Dartignis,Braisillon ,Hinoyakoma ,Bulhwasalbin ,Fire,Flying,6,,,,,,,,,,./icon/662.png,
+663,Talonflame,Fiaro,Flambusard ,Fiarrow ,Pai'eoro ,Fire,Flying,6,,,,,,,,,,./icon/663.png,
+664,Scatterbug,Purmel,L�pidonille ,Kofukimushi ,Bun'ibeolle ,Bug,,6,,,,,,,,,,./icon/664.png,
+665,Spewpa,Puponcho,P�r�grain ,Kofuurai ,Bun'ddeodori ,Bug,,6,,,,,,,,,,./icon/665.png,
+666,Vivillon,Vivillon,Prismillon ,Viviyon ,Bibiyong ,Bug,Flying,6,,,,,,,,,,./icon/666.png,
+667,Litleo,Leufeo,H�lionceau ,Shishiko ,Re'okko ,Fire,Normal,6,,,,,,,,,,./icon/667.png,
+668,Pyroar,Pyroleo,N�m�lios ,Kaenjishi ,Hwayeomre'o ,Fire,Normal,6,,,,,,,,,,./icon/668.png,
+669,Flab�b�,Flab�b�,Flab�b� ,Flabebe ,Peullabebe ,Fairy,,6,,,,,,,,,,./icon/669.png,
+670,Floette,Floette,Floette ,Floette ,Peuraette ,Fairy,,6,,,,,,,,,,./icon/670.png,
+671,Florges,Florges,Florges ,Florges ,Peurajeseu ,Fairy,,6,,,,,,,,,,./icon/671.png,
+672,Skiddo,M�hikel,Cabriolaine ,Meecle ,Meikeul ,Grass,,6,,,,,,,,,,./icon/672.png,
+673,Gogoat,Chevrumm,Chevroum ,Gogoat ,Gogoteu ,Grass,,6,,,,,,,,,,./icon/673.png,
+674,Pancham,Pam-Pam,Pandespi�gle ,Yancham ,Pan'jjang ,Fighting,,6,,,,,,,,,,./icon/674.png,
+675,Pangoro,Pandagro,Pandarbare ,Goronda ,Buranda ,Fighting,Dark,6,,,,,,,,,,./icon/675.png,
+676,Furfrou,Coiffwaff,Couafarel ,Trimmien ,Teurimiang ,Normal,,6,,,,,,,,,,./icon/676.png,
+677,Espurr,Psiau,Psystigri ,Nyasper ,Nyaseupeo ,Psychic,,6,,,,,,,,,,./icon/677.png,
+678,Meowstic,Psiaugon,Mistigrix ,Nyaonix ,Nyaonikseu ,Psychic,,6,,,,,,,,,,./icon/678.png,
+679,Honedge,Gramokles,Monorpale ,Hitotsuki ,Dankalbing ,Steel,Ghost,6,,,,,,,,,,./icon/679.png,
+680,Doublade,Duokles,Dimocl�s ,Nidangill ,Ssanggeomkil ,Steel,Ghost,6,,,,,,,,,,./icon/680.png,
+681,Aegislash,Durengard,Exagide ,Gillard ,Kilgareudo ,Steel,Ghost,6,,,,,,,,,,./icon/681.png,
+682,Spritzee,Parfi,Fluvetin ,Shushupu ,Syuppeu ,Fairy,,6,,,,,,,,,,./icon/682.png,
+683,Aromatisse,Parfinesse,Cocotine ,Frefuwan ,Peurepeutireu ,Fairy,,6,,,,,,,,,,./icon/683.png,
+684,Swirlix,Flauschling,Sucroquin ,Peroppafu ,Narumpeopeu ,Fairy,,6,,,,,,,,,,./icon/684.png,
+685,Slurpuff,Sabbaione,Cupcanaille ,Peroream ,Narurim ,Fairy,,6,,,,,,,,,,./icon/685.png,
+686,Inkay,Iscalar,Sepiatop ,Maaiika ,Okeijing ,Dark,Psychic,6,,,,,,,,,,./icon/686.png,
+687,Malamar,Calamanero,Sepiatroce ,Calamanero ,Kallamanero ,Dark,Psychic,6,,,,,,,,,,./icon/687.png,
+688,Binacle,Bithora,Opermine ,Kametete ,Geoboksonson ,Rock,Water,6,,,,,,,,,,./icon/688.png,
+689,Barbaracle,Thanathora,Golgopathe ,Gamenodes ,Geoboksondeseu ,Rock,Water,6,,,,,,,,,,./icon/689.png,
+690,Skrelp,Algitt,Venalgue ,Kuzumo ,Suregi ,Poison,Water,6,,,,,,,,,,./icon/690.png,
+691,Dragalge,Tandrak,Kravarech ,Dramidoro ,Deuraekam ,Poison,Dragon,6,,,,,,,,,,./icon/691.png,
+692,Clauncher,Scampisto,Flingouste ,Udeppou ,Wancheolpo ,Water,,6,,,,,,,,,,./icon/692.png,
+693,Clawitzer,Wummer,Gamblast ,Bloster ,Beulloseuteo ,Water,,6,,,,,,,,,,./icon/693.png,
+694,Helioptile,Eguana,Galvaran ,Erikiteru ,Mokdorikitel ,Electric,Normal,6,,,,,,,,,,./icon/694.png,
+695,Heliolisk,Elezard,Iguolta ,Elezard ,Illedorijadeu ,Electric,Normal,6,,,,,,,,,,./icon/695.png,
+696,Tyrunt,Balgoras,Ptyranidur ,Chigoras ,Tigoraseu ,Rock,Dragon,6,,,,,,,,,,./icon/696.png,
+697,Tyrantrum,Monargoras,Rexillius ,Gachigoras ,Gyeongoraseu ,Rock,Dragon,6,,,,,,,,,,./icon/697.png,
+698,Amaura,Amarino,Amagara ,Amarus ,Amaruseu ,Rock,Ice,6,,,,,,,,,,./icon/698.png,
+699,Aurorus,Amagarga,Dragmara ,Amaruruga ,Amarureuga ,Rock,Ice,6,,,,,,,,,,./icon/699.png,
+700,Sylveon,Feelinara,Nymphali ,Nymphia ,Nymphia ,Fairy,,6,,,,,,,,,,./icon/700.png,
+701,Hawlucha,Resladero,Brutalibr� ,Luchabull ,Ruchabul ,Fighting,Flying,6,,,,,,,,,,./icon/701.png,
+702,Dedenne,Dedenne,Dedenne ,Dedenne ,Dedenne ,Electric,Fairy,6,,,,,,,,,,./icon/702.png,
+703,Carbink,Rocara,Strassie ,Melecie ,Mellisi ,Rock,Fairy,6,,,,,,,,,,./icon/703.png,
+704,Goomy,Viscora,Mucuscule ,Numera ,Mikkeumera ,Dragon,,6,,,,,,,,,,./icon/704.png,
+705,Sliggoo,Viscargot,Colimucus ,Numeil ,Mikkeunaeil ,Dragon,,6,,,,,,,,,,./icon/705.png,
+706,Goodra,Viscogon,Muplodocus ,Numelgon ,Mikkeuraegon ,Dragon,,6,,,,,,,,,,./icon/706.png,
+707,Klefki,Clavion,Trousselin ,Cleffy ,Keullepi ,Steel,Fairy,6,,,,,,,,,,./icon/707.png,
+708,Phantump,Paragoni,Broc�l�me ,Bokurei ,Namokryeong ,Ghost,Grass,6,,,,,,,,,,./icon/708.png,
+709,Trevenant,Trombork,Dess�liande ,Ohrot ,Daeroteu ,Ghost,Grass,6,,,,,,,,,,./icon/709.png,
+710,Pumpkaboo,Irrbis,Pitrouille ,Bakeccha ,Hobagwi ,Ghost,Grass,6,,,,,,,,,,./icon/710.png,
+711,Gourgeist,Pumpdjinn,Banshitrouye ,Pumpjin ,Peomkin'in ,Ghost,Grass,6,,,,,,,,,,./icon/711.png,
+712,Bergmite,Arktip,Grela�on ,Kachikohru ,Kkong'eoreum ,Ice,,6,,,,,,,,,,./icon/712.png,
+713,Avalugg,Arktilas,S�racrawl ,Crebase ,Keurebeiseu ,Ice,,6,,,,,,,,,,./icon/713.png,
+714,Noibat,eF-eM,Sonistrelle ,Onbat ,Eumbaet ,Flying,Dragon,6,,,,,,,,,,./icon/714.png,
+715,Noivern,UHaFnir,Bruyverne ,Onvern ,Eumbeon ,Flying,Dragon,6,,,,,,,,,,./icon/715.png,
+716,Xerneas,Xerneas,Xerneas ,Xerneas ,Xerneas ,Fairy,,6,,,,,,,,,,./icon/716.png,
+717,Yveltal,Yveltal,Yveltal ,Yveltal ,Yveltal ,Dark,Flying,6,,,,,,,,,,./icon/717.png,
+718,Zygarde,Zygarde,Zygarde ,Zygarde ,Jigareude ,Dragon,Ground,6,,,,,,,,,,./icon/718.png,
+719,Diancie,Diancie,Diancie ,Diancie ,Diancie ,Rock,Fairy,6,,,,,,,,,,./icon/719.png,
+720,Hoopa,Hoopa,Hoopa ,Hoopa ,Hoopa ,Psychic,Ghost,6,,,,,,,,,,./icon/720.png,
+721,Volcanion,Volcanion,Volcanion ,Volcanion ,Volcanion ,Fire,Water,6,,,,,,,,,,./icon/721.png,
+722,Rowlet,Bauz,Brindibou ,Mokuroh ,Namolppaemi ,Grass,Flying,7,,,,,,,,,,./icon/722.png,
+723,Dartrix,Arboretoss,Effl�che ,Fukuthrow , ,Grass,Flying,7,,,,,,,,,,./icon/723.png,
+724,Decidueye,Silvarro,Arch�duc ,Junaiper , ,Grass,Ghost,7,,,,,,,,,,./icon/724.png,
+725,Litten,Flamiau,Flamiaou ,Nyabby ,Nyaobul ,Fire,,7,,,,,,,,,,./icon/725.png,
+726,Torracat,Miezunder,Matoufeu ,Nyaheat , ,Fire,,7,,,,,,,,,,./icon/726.png,
+727,Incineroar,Fuegro,F�linferno ,Gaogaen , ,Fire,Dark,7,,,,,,,,,,./icon/727.png,
+728,Popplio,Robball,Otaquin ,Ashimari ,Nurigong ,Water,,7,,,,,,,,,,./icon/728.png,
+729,Brionne,Marikeck,Otarlette ,Osyamari , ,Water,,7,,,,,,,,,,./icon/729.png,
+730,Primarina,Primarene,Oratoria ,Ashirene , ,Water,Fairy,7,,,,,,,,,,./icon/730.png,
+731,Pikipek,Peppeck,Picassaut ,Tsutsukera ,Kokkoguri ,Normal,Flying,7,,,,,,,,,,./icon/731.png,
+732,Trumbeak,Trompeck,Piclairon ,Kerarappa , ,Normal,Flying,7,,,,,,,,,,./icon/732.png,
+733,Toucannon,Tukanon,Bazoucan ,Dodekabashi , ,Normal,Flying,7,,,,,,,,,,./icon/733.png,
+734,Yungoos,Mangunior,Manglouton ,Yangsu ,Yeongguseu ,Normal,,7,,,,,,,,,,./icon/734.png,
+735,Gumshoos,Manguspektor,Argouste ,Dekagsu ,Hyeongsaguseu ,Normal,,7,,,,,,,,,,./icon/735.png,
+736,Grubbin,Mabula,Larvibule ,Agojimushi ,Teokjichung-i ,Bug,,7,,,,,,,,,,./icon/736.png,
+737,Charjabug,Akkup,Chrysapile ,Dendjimushi ,Jeonjichung-i ,Bug,Electric,7,,,,,,,,,,./icon/737.png,
+738,Vikavolt,Donarion,Lucanon ,Kuwaganon ,Tuguppunon ,Bug,Electric,7,,,,,,,,,,./icon/738.png,
+739,Crabrawler,Krabbox,Crabagarre ,Makenkani ,Ogijige ,Fighting,,7,,,,,,,,,,./icon/739.png,
+740,Crabominable,Krawell,Crabominable ,Kekenkani , ,Fighting,Ice,7,,,,,,,,,,./icon/740.png,
+741,Oricorio,Choreogel,Plumeline ,Odoridori ,Chumchusae ,Fire,Flying,7,,,,,,,,,,./icon/741.png,
+742,Cutiefly,Wommel,Bombydou ,Abuly ,Ebeulli ,Bug,Fairy,7,,,,,,,,,,./icon/742.png,
+743,Ribombee,Bandelby,Rubombelle ,Aburibon , ,Bug,Fairy,7,,,,,,,,,,./icon/743.png,
+744,Rockruff,Wuffels,Rocabot ,Iwanko ,Ammeong-i ,Rock,,7,,,,,,,,,,./icon/744.png,
+745,Lycanroc,Wolwerock,Lougaroc ,Lugarugan , ,Rock,,7,,,,,,,,,,./icon/745.png,
+746,Wishiwashi,Lusardin,Froussardine ,Yowashi ,Yageori ,Water,,7,,,,,,,,,,./icon/746.png,
+747,Mareanie,Garstella,Vorast�rie ,Hidoide , ,Poison,Water,7,,,,,,,,,,./icon/747.png,
+748,Toxapex,Aggrostella,Pr�dast�rie ,Dohidoide , ,Poison,Water,7,,,,,,,,,,./icon/748.png,
+749,Mudbray,Pampuli,Tiboudet ,Dorobanko ,Meodeunagi ,Ground,,7,,,,,,,,,,./icon/749.png,
+750,Mudsdale,Pampross,Bourrinos ,Banbadoro ,Manmadeu ,Ground,,7,,,,,,,,,,./icon/750.png,
+751,Dewpider,Araqua,Araqua ,Shizukumo , ,Water,Bug,7,,,,,,,,,,./icon/751.png,
+752,Araquanid,Aranestro,Tarenbulle ,Onishizukumo , ,Water,Bug,7,,,,,,,,,,./icon/752.png,
+753,Fomantis,Imantis,Mimantis ,Karikiri ,Jjarangnang ,Grass,,7,,,,,,,,,,./icon/753.png,
+754,Lurantis,Mantidea,Floramantis ,Rarantesu ,Rarantiseu ,Grass,,7,,,,,,,,,,./icon/754.png,
+755,Morelull,Bubungus,Spododo ,Nemashu ,Jamasyu ,Grass,Fairy,7,,,,,,,,,,./icon/755.png,
+756,Shiinotic,Lamellux,Lampignon ,Mashdo , ,Grass,Fairy,7,,,,,,,,,,./icon/756.png,
+757,Salandit,Molunk,Tritox ,Yatoumori ,Yadonyong ,Poison,Fire,7,,,,,,,,,,./icon/757.png,
+758,Salazzle,Amfira,Malamandre ,Ennyto , ,Poison,Fire,7,,,,,,,,,,./icon/758.png,
+759,Stufful,Velursi,Nounourson ,Nuikoguma ,Pogomgom ,Normal,Fighting,7,,,,,,,,,,./icon/759.png,
+760,Bewear,Kosturso,Chelours ,Kiteruguma ,Ibeun-gom ,Normal,Fighting,7,,,,,,,,,,./icon/760.png,
+761,Bounsweet,Frubberl,Croquine ,Amakaji ,Dalkom-a ,Grass,,7,,,,,,,,,,./icon/761.png,
+762,Steenee,Frubaila,Candine ,Amamaiko , ,Grass,,7,,,,,,,,,,./icon/762.png,
+763,Tsareena,Fruyal,Sucreine ,Amajo , ,Grass,,7,,,,,,,,,,./icon/763.png,
+764,Comfey,Curelei,Gu�rilande ,Cuwawa ,Kyuaring ,Fairy,,7,,,,,,,,,,./icon/764.png,
+765,Oranguru,Kommandutan,Gouroutan ,Yareytan , ,Normal,Psychic,7,,,,,,,,,,./icon/765.png,
+766,Passimian,Quartermark,Quartermac ,Nagetsukesaru , ,Fighting,,7,,,,,,,,,,./icon/766.png,
+767,Wimpod,Rei�laus,Sovkipou ,Kosokumushi ,Kkosire ,Bug,Water,7,,,,,,,,,,./icon/767.png,
+768,Golisopod,Tectass,Sarmura� ,Gusokumusha , ,Bug,Water,7,,,,,,,,,,./icon/768.png,
+769,Sandygast,Sankabuh,Bacabouh ,Sunabaa ,Moraekkung ,Ghost,Ground,7,,,,,,,,,,./icon/769.png,
+770,Palossand,Colossand,Tr�passable ,Shirodesuna ,Moraeseongidang ,Ghost,Ground,7,,,,,,,,,,./icon/770.png,
+771,Pyukumuku,Gufa,Concombaffe ,Namakobushi ,Haemugi ,Water,,7,,,,,,,,,,./icon/771.png,
+772,Type: Null,Typ:Null,Type:0 ,:Type:Null ,:Type:Null ,Normal,,7,,,,,,,,,,./icon/772.png,
+773,Silvally,Amigento,Silvalli� ,Silvady , ,Normal,,7,,,,,,,,,,./icon/773.png,
+774,Minior,Meteno,M�t�no ,Meteno ,Meteno ,Rock,Flying,7,,,,,,,,,,./icon/774.png,
+775,Komala,Koalelu,Dodoala ,Nekkoara ,Jamalla ,Normal,,7,,,,,,,,,,./icon/775.png,
+776,Turtonator,Tortunator,Boumata ,Bakugames ,Pokgeobukseu ,Fire,Dragon,7,,,,,,,,,,./icon/776.png,
+777,Togedemaru,Togedemaru,Togedemaru ,Togedemaru ,Togedemaru ,Electric,Steel,7,,,,,,,,,,./icon/777.png,
+778,Mimikyu,Mimigma,Mimiqui ,Mimikkyu ,Ttarakyu ,Ghost,Fairy,7,,,,,,,,,,./icon/778.png,
+779,Bruxish,Knirfish,Denticrisse ,Hagigishiri ,Chigalgi ,Water,Psychic,7,,,,,,,,,,./icon/779.png,
+780,Drampa,Sen-Long,Dra�eul ,Jijron ,Halbirong ,Normal,Dragon,7,,,,,,,,,,./icon/780.png,
+781,Dhelmise,Moruda,Sinistrail ,Dadarin , ,Ghost,Grass,7,,,,,,,,,,./icon/781.png,
+782,Jangmo-o,Miniras,B�b�caille ,Jarako ,Jjarangkko ,Dragon,,7,,,,,,,,,,./icon/782.png,
+783,Hakamo-o,Mediras,�ca�d ,Jarango , ,Dragon,Fighting,7,,,,,,,,,,./icon/783.png,
+784,Kommo-o,Grandiras,�ka�ser ,Jararanga , ,Dragon,Fighting,7,,,,,,,,,,./icon/784.png,
+785,Tapu Koko,Kapu-Riki,Tokorico ,Kapu-Kokeko ,Kapukkokkokkok ,Electric,Fairy,7,,,,,,,,,,./icon/785.png,
+786,Tapu Lele,Kapu-Fala,Tokopiyon ,Kapu-Tetefu , ,Psychic,Fairy,7,,,,,,,,,,./icon/786.png,
+787,Tapu Bulu,Kapu-Toro,Tokotoro ,Kapu-Bulul , ,Grass,Fairy,7,,,,,,,,,,./icon/787.png,
+788,Tapu Fini,Kapu-Kime,Tokopisco ,Kapu-Rehire , ,Water,Fairy,7,,,,,,,,,,./icon/788.png,
+789,Cosmog,Cosmog,Cosmog ,Cosmog , ,Psychic,,7,,,,,,,,,,./icon/789.png,
+790,Cosmoem,Cosmovum,Cosmovum ,Cosmovum , ,Psychic,,7,,,,,,,,,,./icon/790.png,
+791,Solgaleo,Solgaleo,Solgaleo ,Solgaleo ,Solgaleo ,Psychic,Steel,7,,,,,,,,,,./icon/791.png,
+792,Lunala,Lunala,Lunala ,Lunala ,Lunala ,Psychic,Ghost,7,,,,,,,,,,./icon/792.png,
+793,Nihilego,Anego,Z�ro�d ,Uturoid , ,Rock,Poison,7,,,,,,,,,,./icon/793.png,
+794,Buzzwole,Masskito,Mouscoto ,Massivoon , ,Bug,Fighting,7,,,,,,,,,,./icon/794.png,
+795,Pheromosa,Schabelle,Cancrelove ,Pheroache , ,Bug,Fighting,7,,,,,,,,,,./icon/795.png,
+796,Xurkitree,Voltriant,C�blif�re ,Denjumoku , ,Electric,,7,,,,,,,,,,./icon/796.png,
+797,Celesteela,Kaguron,Bamboiselle ,Tekkaguya , ,Steel,Flying,7,,,,,,,,,,./icon/797.png,
+798,Kartana,Katagami,Katagami ,Kamitsurugi , ,Grass,Steel,7,,,,,,,,,,./icon/798.png,
+799,Guzzlord,Schlingking,Engloutyran ,Akujikingu , ,Dark,Dragon,7,,,,,,,,,,./icon/799.png,
+800,Necrozma,Necrozma,Necrozma ,Necrozma , ,Psychic,,7,,,,,,,,,,./icon/800.png,
+801,Magearna,Magearna,Magearna ,Magearna ,Magearna ,Steel,Fairy,7,,,,,,,,,,./icon/801.png,
+802,Marshadow,Marshadow,Marshadow ,Marshadow ,Marshadow ,Fighting,Ghost,7,,,,,,,,,,./icon/802.png,
+803,Poipole,Venicro,V�mini ,Bevenom ,Bebenom ,Poison,,7,,,,,,,,,,./icon/803.png,
+804,Naganadel,Agoyon,Mandrillon ,Agoyon ,Agoyong ,Poison,Dragon,7,,,,,,,,,,./icon/804.png,
+805,Stakataka,Muramura,Ama-Ama ,Tundetunde ,Chagogchagog ,Rock,Steel,7,,,,,,,,,,./icon/805.png,
+806,Blacephalon,Kopplosio,Pierroteknik ,Zugadoon ,Dupapang ,Fire,Ghost,7,,,,,,,,,,./icon/806.png,
+807,Zeraora,Zeraora,Zeraora ,Zeraora ,Jeraora ,Electric,,7,,,,,,,,,,./icon/807.png,
+808,Meltan,Meltan,Meltan ,Merutan ,Meltan ,Steel,,7,400,20,130,112,113,1080,"30,00�%",,No,./icon/808.png,./sprites/808.png
+809,Melmetal,Melmetal,Melmetal,Merumetaru ,Melmetal ,Steel,,7,,20,264,231,213,3875,"30,00�%",,No,./icon/809.png,./sprites/809.png
