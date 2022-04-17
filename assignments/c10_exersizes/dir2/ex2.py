@@ -30,11 +30,43 @@ def number_guessing_game():
     to the random number, the program will print "Congratulations!" and terminate.
 
     Also, the program should deal with the following "problematic" input using TRY/EXCEPT (not with IF/ELSE!!!):
-    - Given an input which cannot be converted to a integer,
+    - Given an input which cannot be converted to an integer,
         try to convert it anyhow, catch the resulting exception and raise a "NotAnIntegerError".
     - When the upper bound is lower than the lower bound, random.randint will throw a ValueError.
         Catch it and throw an "EmptyRangeError" instead.
 
     Tip: random.randint(a, b) will return a random integer n such that a <= n <= b.
     """
-    pass
+
+    try:
+        lower = int(input('Enter lower bound: '))
+    except ValueError:
+        raise Exception(NotAnIntegerError)
+    try:
+        upper = int(input('Enter upper bound: '))
+    except ValueError:
+        raise Exception(NotAnIntegerError)
+    try:
+        random_number = random.randint(lower, upper)
+    except ValueError:
+        raise Exception(EmptyRangeError)
+
+    game_over = False
+
+    while not game_over:
+        try:
+            user_guess = int(input('Guess the number: '))
+        except ValueError:
+            raise Exception(NotAnIntegerError)
+
+        if user_guess == random_number:
+            print('Congratulations!')
+            game_over = True
+            break
+        if user_guess <= random_number:
+            print('smaller')
+        elif user_guess >= random_number:
+            print('bigger')
+
+
+number_guessing_game()
