@@ -60,13 +60,13 @@ def number_guessing_game():
             raise Exception(NotAnIntegerError)
 
         if user_guess == random_number:
-            print('Congratulations!')
+            print('Congratulations! You guessed it.')
             game_over = True
             break
         if user_guess <= random_number:
-            print('smaller')
+            print('smaller... try a large number')
         elif user_guess >= random_number:
-            print('bigger')
+            print('bigger... try a small number')
 
 
 number_guessing_game()
