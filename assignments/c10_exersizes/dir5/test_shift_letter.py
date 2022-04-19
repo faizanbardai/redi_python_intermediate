@@ -25,6 +25,33 @@ When you run the test, they will be automatically run against four implementatio
 - shift_letter_wrong3
 
 For each function, write down which tests it passes and which test it fails.
+
+1. test_shift_letter_increments_beginning_letters
+    - shift_letter_correct  [pass]
+    - shift_letter_wrong1   [pass]
+    - shift_letter_wrong2   [pass]
+    - shift_letter_wrong3   [pass]
+2. test_shift_letter_works_with_negative_steps
+    - shift_letter_correct  [pass]
+    - shift_letter_wrong1   [pass]
+    - shift_letter_wrong2   [pass]
+    - shift_letter_wrong3   [fail]
+3. test_shift_letter_wraps_around_alphabet
+    - shift_letter_correct  [pass]
+    - shift_letter_wrong1   [pass]
+    - shift_letter_wrong2   [pass]
+    - shift_letter_wrong3   [pass]
+4. test_shift_letter_keeps_letter_capitalization
+    - shift_letter_correct  [pass]
+    - shift_letter_wrong1   [fail]
+    - shift_letter_wrong2   [fail]
+    - shift_letter_wrong3   [pass]
+5. test_shift_letter_yields_identity_for_some_steps
+    - shift_letter_correct  [pass]
+    - shift_letter_wrong1   [fail]
+    - shift_letter_wrong2   [pass]
+    - shift_letter_wrong3   [pass]
+
 """
 from .shift_letter import (
     shift_letter_correct,
@@ -57,20 +84,25 @@ def test_shift_letter_increments_beginning_letters(shift_letter):
 
 
 def test_shift_letter_wraps_around_alphabet(shift_letter):
-    # TODO
+    assert shift_letter("z", 1) == "a"
+    assert shift_letter("x", 4) == "b"
     ...
 
 
 def test_shift_letter_keeps_letter_capitalization(shift_letter):
-    # TODO
+    assert shift_letter("a", 1) == "b"
+    assert shift_letter("A", 1) == "B"
     ...
 
 
 def test_shift_letter_works_with_negative_steps(shift_letter):
-    # TODO
+    assert shift_letter("g", -1) == "f"
+    assert shift_letter("g", -6) == "a"
     ...
 
 
 def test_shift_letter_yields_identity_for_some_steps(shift_letter):
-    # TODO
+    assert shift_letter("a", 0) == "a"
+    assert shift_letter("a", 26) == "a"
+    assert shift_letter("a", 52) == "a"
     ...
