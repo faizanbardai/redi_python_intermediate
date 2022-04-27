@@ -1,5 +1,5 @@
 import pytest
-from .ex2 import number_guessing_game, NotAnIntegerError, EmptyRangeError
+from .ex2 import number_guessing_game
 
 
 def test_game_prints_congratulation_on_first_try(monkeypatch, capsys):
@@ -29,24 +29,6 @@ def test_game_prints_smaller_if_guess_too_small(monkeypatch, capsys):
     assert "smaller" in capsys.readouterr().out.lower()
 
 
-def test_game_raises_notanintegererror_for_bounds(monkeypatch):
-    _patch_input_and_randint(monkeypatch, fake_input=["a"])
-    with pytest.raises(NotAnIntegerError):
-        number_guessing_game()
-
-
-def test_game_raises_notanintegererror_for_guess(monkeypatch):
-    _patch_input_and_randint(monkeypatch, fake_input=[0, 0, "a"])
-    with pytest.raises(NotAnIntegerError):
-        number_guessing_game()
-
-
-def test_game_raises_emptyrangeerror(monkeypatch):
-    _patch_input_and_randint(monkeypatch, fake_input=[1, -1])
-    with pytest.raises(EmptyRangeError):
-        number_guessing_game()
-
-
 def _patch_input_and_randint(_monkeypatch, fake_input, random_integer=None):
     _patch_input(_monkeypatch, fake_input)
     if random_integer is not None:
@@ -56,8 +38,8 @@ def _patch_input_and_randint(_monkeypatch, fake_input, random_integer=None):
 def _patch_input(_monkeypatch, fake_input: list):
     fake_input = iter(fake_input)
 
-    def my_input(text=None):
-        return next(fake_input)
+    def my_input(text=None) -> str:
+        return str(next(fake_input))
 
     _monkeypatch.setattr("builtins.input", my_input)
 

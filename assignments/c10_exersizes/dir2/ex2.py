@@ -45,11 +45,11 @@ def number_guessing_game():
     try:
         upper = int(input('Enter upper bound: '))
     except ValueError:
-        raise Exception(NotAnIntegerError)
+        raise NotAnIntegerError
     try:
         random_number = random.randint(lower, upper)
     except ValueError:
-        raise Exception(EmptyRangeError)
+        raise EmptyRangeError
 
     game_over = False
 
@@ -69,4 +69,5 @@ def number_guessing_game():
             print('bigger... try a small number')
 
 
-number_guessing_game()
+if __name__ == 'main':
+    number_guessing_game()
