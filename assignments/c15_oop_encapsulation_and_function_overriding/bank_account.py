@@ -1,5 +1,4 @@
 import uuid
-from numpy import void
 
 
 class BankAccount:
@@ -47,7 +46,7 @@ class Customer:
     def get_name(self) -> str:
         return self._name
 
-    def add_account(self, account: BankAccount) -> void:
+    def add_account(self, account: BankAccount) -> None:
         self._accounts.append(account)
 
     def get_info(self) -> str:
