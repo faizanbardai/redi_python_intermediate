@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 
 
 class Vector:
-    def __init__(self, x, y) -> None:
+    def __init__(self, x: float, y: float) -> None:
         self.x = round(float(x), 1)
         self.y = round(float(y), 1)
 
