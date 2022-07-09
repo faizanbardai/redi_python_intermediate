@@ -22,7 +22,7 @@ class Polygon(ABC):
 
 
 class Rectangle(Polygon):
-    def __init__(self, v1, v2):
+    def __init__(self, v1: Vector, v2: Vector):
         self.v1 = v1
         self.v2 = v2
 

@@ -1,6 +1,6 @@
 import uuid
 
-from bank_account import SavingsAccount, BankAccount, CurrentAccount, Customer, PrivateCustomer, BusinessCustomer
+from c_15_bank_account import SavingsAccount, BankAccount, CurrentAccount, Customer, PrivateCustomer, BusinessCustomer
 
 ACCOUNT_CLASS = BankAccount
 SAVINGS_CLASS = SavingsAccount
